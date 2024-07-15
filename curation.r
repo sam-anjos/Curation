@@ -1,5 +1,10 @@
+install.packages("here")
+library(here)
+
 # Carregando os dados
-raw_data <- read.csv("G:/Outros computadores/Meu computador/Mestrado/Projeto/Curation/Original.csv")
+raw_data <- read.csv(here("Original.csv"))
+
+?here
 
 # Invertendo a ordem das colunas 4 e 5
 raw_data <- raw_data[, c(1,2, 5, 4, 6, 3)]
@@ -53,8 +58,18 @@ frames_list <- split(selected_families_data, selected_families_data$family)
 # Ordenando cada subconjunto por região
 frames_list <- lapply(frames_list, function(subset) subset[order(subset$region), ])
 
+# Criando pasta para novos arquivos
+dir.create("selected_families")
+
+# Verifica se a pasta foi criada
+if (file.exists("selected_families")) {
+  cat("Pasta criada com sucesso!")
+} else {
+  cat("Falha ao criar a pasta.")
+}
+
 # Salvando cada subconjunto de dados em arquivos separados
 for (i in names(frames_list)) {
-  nome_arquivo <- paste(i, ".csv", sep = "")
+  nome_arquivo <- paste("selected_families/", i, ".csv", sep = "")
   write.csv(frames_list[[i]], file = nome_arquivo, row.names = FALSE)
 }
