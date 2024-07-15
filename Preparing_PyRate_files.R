@@ -40,11 +40,15 @@ renomear_colunas <- function(df, novos_nomes) {
   return(df)
 }
 
+
 # Aplicando a função a todos os data frames na lista
 files <- lapply(files, renomear_colunas, new_names)
+''
+# Criando pasta para novos arquivos
+dir.create("PyRate_files")
 
 # Definindo os nomes dos arquivos CSV
-nomes_arquivos <- paste0("PyRate_files/", c("Deinotheriidae","Elephantidae","Gomphotheriidae","Mammutidae","Stegodontidae"), ".csv")
+nomes_arquivos <- paste0("PyRate_files/", c("Deinotheriidae","Elephantidae","Gomphotheriidae","Mammutidae","Stegodontidae"), "_PyRate", ".csv")
 
 # Função para salvar cada data frame em um arquivo CSV
 salvar_em_csv <- function(df, nome_arquivo) {
