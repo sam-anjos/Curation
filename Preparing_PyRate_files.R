@@ -2,13 +2,13 @@ install.packages("here")
 library(here)
 
 # Defina o caminho relativo para a pasta contendo os arquivos CSV
-caminho_pasta <- here("selected_families")
+folder_path <- here("species_per_region/selected")
 
 # Liste todos os arquivos CSV na pasta
-arquivos_csv <- list.files(path = here("selected_families"), pattern = "*.csv", full.names = TRUE)
+csv_files <- list.files(path = here("species_per_region/selected"), pattern = "*.csv", full.names = TRUE)
 
 # Loop sobre cada arquivo e leia-o em um objeto diferente
-for (arquivo in arquivos_csv) {
+for (arquivo in csv_files) {
   # Extraia o nome do arquivo sem a extensão para usar como nome do objeto
   nome_objeto <- tools::file_path_sans_ext(basename(arquivo))
   # Leia o arquivo CSV
@@ -19,7 +19,7 @@ for (arquivo in arquivos_csv) {
 
 rm(dados)
 
-files <- list(Deinotheriidae, Elephantidae, Gomphotheriidae, Mammutidae, Stegodontidae)
+files <- list(Deinotheriidae_Africa, Deinotheriidae_Eurasia, Elephantidae_Africa, Elephantidae_Eurasia, Gomphotheriidae_Africa, Gomphotheriidae_Eurasia, Gomphotheriidae_NorthAmerica, Mammutidae_Eurasia, Stegodontidae_Eurasia)
 
 files <- lapply(files, function(df) df[,c(-2,-5)])
 
@@ -43,12 +43,12 @@ renomear_colunas <- function(df, novos_nomes) {
 
 # Aplicando a função a todos os data frames na lista
 files <- lapply(files, renomear_colunas, new_names)
-''
+
 # Criando pasta para novos arquivos
 dir.create("PyRate_files")
 
 # Definindo os nomes dos arquivos CSV
-nomes_arquivos <- paste0("PyRate_files/", c("Deinotheriidae","Elephantidae","Gomphotheriidae","Mammutidae","Stegodontidae"), "_PyRate", ".csv")
+nomes_arquivos <- paste0("PyRate_files/", c("Deinotheriidae_Africa", "Deinotheriidae_Eurasia", "Elephantidae_Africa", "Elephantidae_Eurasia", "Gomphotheriidae_Africa", "Gomphotheriidae_Eurasia", "Gomphotheriidae_NorthAmerica","Mammutidae_Eurasia","Stegodontidae_Eurasia"), "_PyRate", ".csv")
 
 # Função para salvar cada data frame em um arquivo CSV
 salvar_em_csv <- function(df, nome_arquivo) {

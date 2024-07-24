@@ -1,452 +1,452 @@
 "species","region","minimum.age","maximum.age","family","Site"
-"Elephas atavus","Africa",2.6,3.56,"Elephantidae",341
-"Elephas atavus","Africa",2.91,3.44,"Elephantidae",42
-"Elephas atavus","Africa",2.91,3.44,"Elephantidae",43
-"Elephas atavus","Africa",2.91,3.44,"Elephantidae",44
-"Elephas atavus","Africa",1.8,2.4,"Elephantidae",342
-"Elephas atavus","Africa",1.87,2.33,"Elephantidae",343
-"Elephas atavus","Africa",2.06,2.33,"Elephantidae",344
-"Elephas atavus","Africa",2.27,2.32,"Elephantidae",63
-"Elephas atavus","Africa",2.27,2.32,"Elephantidae",64
-"Elephas atavus","Africa",2.1,2.3,"Elephantidae",345
-"Elephas atavus","Africa",1.9,2.27,"Elephantidae",65
-"Elephas atavus","Africa",1.88,2,"Elephantidae",66
-"Elephas atavus","Africa",1.86,2,"Elephantidae",67
-"Elephas atavus","Africa",1.86,2,"Elephantidae",67
-"Elephas atavus","Africa",1.78,1.95,"Elephantidae",346
-"Elephas atavus","Africa",1.78,1.95,"Elephantidae",346
-"Elephas atavus","Africa",1.53,1.87,"Elephantidae",70
-"Elephas atavus","Africa",1.53,1.87,"Elephantidae",71
-"Elephas atavus","Africa",1.785,1.845,"Elephantidae",73
-"Elephas atavus","Africa",1.6,1.8,"Elephantidae",347
-"Elephas atavus","Africa",1.15,1.785,"Elephantidae",74
-"Elephas atavus","Africa",1.81,2.2,"Elephantidae",348
-"Elephas ekorensis","Africa",2.6,5.33,"Elephantidae",349
-"Elephas ekorensis","Africa",4.2,5.3,"Elephantidae",24
-"Elephas ekorensis","Africa",4,4.5,"Elephantidae",350
-"Elephas ekorensis","Africa",3.6,4.2,"Elephantidae",29
-"Elephas ekorensis","Africa",3.4,4.2,"Elephantidae",30
-"Elephas ekorensis","Africa",4.07,4.17,"Elephantidae",31
-"Elephas ekorensis","Africa",3,3.9,"Elephantidae",33
-"Elephas ekorensis","Africa",3.2,3.8,"Elephantidae",351
-"Elephas ekorensis","Africa",2.6,3.56,"Elephantidae",352
-"Elephas ekorensis","Africa",2.95,3.56,"Elephantidae",353
-"Elephas ekorensis","Africa",2.6,3.56,"Elephantidae",39
-"Elephas ekorensis","Africa",2.6,3.56,"Elephantidae",40
-"Elephas ekorensis","Africa",3.2,3.446,"Elephantidae",41
-"Elephas ekorensis","Africa",3.18,3.22,"Elephantidae",50
-"Elephas planifrons","Africa",3.44,3.6,"Elephantidae",37
-"Elephas planifrons","Africa",1.88,2,"Elephantidae",66
-"Loxodonta adaurora","Africa",2.6,5.33,"Elephantidae",349
-"Loxodonta adaurora","Africa",4.2,5.3,"Elephantidae",24
-"Loxodonta adaurora","Africa",3.6,4.2,"Elephantidae",28
-"Loxodonta adaurora","Africa",3.6,4.2,"Elephantidae",29
-"Loxodonta adaurora","Africa",3.4,4.2,"Elephantidae",30
-"Loxodonta adaurora","Africa",4.07,4.17,"Elephantidae",31
-"Loxodonta adaurora","Africa",3.4,3.94,"Elephantidae",376
-"Loxodonta adaurora","Africa",3.4,3.94,"Elephantidae",32
-"Loxodonta adaurora","Africa",3.4,3.9,"Elephantidae",377
-"Loxodonta adaurora","Africa",3,3.9,"Elephantidae",33
-"Loxodonta adaurora","Africa",3.4,3.6,"Elephantidae",35
-"Loxodonta adaurora","Africa",3.44,3.6,"Elephantidae",37
-"Loxodonta adaurora","Africa",2.6,3.56,"Elephantidae",38
-"Loxodonta adaurora","Africa",2.6,3.56,"Elephantidae",40
-"Loxodonta adaurora","Africa",2.6,3.56,"Elephantidae",378
-"Loxodonta adaurora","Africa",3.2,3.446,"Elephantidae",41
-"Loxodonta adaurora","Africa",2.53,3.44,"Elephantidae",379
-"Loxodonta adaurora","Africa",2.52,3.4,"Elephantidae",380
-"Loxodonta adaurora","Africa",2.52,3.4,"Elephantidae",47
-"Loxodonta adaurora","Africa",3.18,3.22,"Elephantidae",50
-"Loxodonta adaurora","Africa",2.53,2.91,"Elephantidae",51
-"Loxodonta adaurora","Africa",2.32,2.4,"Elephantidae",381
-"Loxodonta africana","Africa",0.117,0.781,"Elephantidae",382
-"Loxodonta africana","Africa",0,0.012,"Elephantidae",383
-"Loxodonta africana","Africa",0,0.012,"Elephantidae",384
-"Loxodonta africana","Africa",0,0.012,"Elephantidae",385
-"Loxodonta africana","Africa",0.082,0.17,"Elephantidae",386
-"Loxodonta africana","Africa",0.012,0.04,"Elephantidae",387
-"Loxodonta africana","Africa",0,0.012,"Elephantidae",388
-"Loxodonta africana","Africa",0,0.012,"Elephantidae",389
-"Loxodonta africana","Africa",0,0.012,"Elephantidae",390
-"Loxodonta africana","Africa",0.056,0.17,"Elephantidae",391
-"Loxodonta africana","Africa",0.012,0.126,"Elephantidae",392
-"Loxodonta africana","Africa",0.012,0.126,"Elephantidae",393
-"Loxodonta africana","Africa",0.035,0.125,"Elephantidae",394
-"Loxodonta africana","Africa",0.056,0.074,"Elephantidae",395
-"Loxodonta africana","Africa",0.04,0.04,"Elephantidae",396
-"Loxodonta africana","Africa",0,0.012,"Elephantidae",397
-"Loxodonta africana","Africa",0,0.012,"Elephantidae",398
-"Loxodonta atlantica","Africa",2.4,2.53,"Elephantidae",57
-"Loxodonta atlantica","Africa",0.8,1.8,"Elephantidae",399
-"Loxodonta atlantica","Africa",0.126,0.8,"Elephantidae",400
-"Loxodonta atlantica","Africa",0.126,0.774,"Elephantidae",401
-"Loxodonta atlantica","Africa",0.59,0.6,"Elephantidae",402
-"Loxodonta cookei","Africa",5.6,6.2,"Elephantidae",403
-"Loxodonta cookei","Africa",5.15,5.15,"Elephantidae",404
-"Loxodonta cyclotis","Africa",0.01,0.012,"Elephantidae",405
-"Loxodonta exoptata","Africa",3.6,5.33,"Elephantidae",17
-"Loxodonta exoptata","Africa",3.6,5.33,"Elephantidae",406
-"Loxodonta exoptata","Africa",4,4.5,"Elephantidae",350
-"Loxodonta exoptata","Africa",3.6,4.2,"Elephantidae",28
-"Loxodonta exoptata","Africa",3.6,4.2,"Elephantidae",29
-"Loxodonta exoptata","Africa",3.58,3.85,"Elephantidae",407
-"Loxodonta exoptata","Africa",3.4,3.6,"Elephantidae",36
-"Loxodonta exoptata","Africa",2.6,3.56,"Elephantidae",408
-"Loxodonta exoptata","Africa",2.6,3.56,"Elephantidae",378
-"Loxodonta exoptata","Africa",2.64,3.4,"Elephantidae",49
-"Loxodonta exoptata","Africa",3.18,3.22,"Elephantidae",50
-"Loxodonta exoptata","Africa",2.32,2.66,"Elephantidae",409
-"Loxodonta exoptata","Africa",2.32,2.66,"Elephantidae",410
-"Loxodonta exoptata","Africa",2.5,2.5,"Elephantidae",60
-"Loxodonta exoptata","Africa",3,3.5,"Elephantidae",411
-"Mammuthus africanavus","Africa",3.6,5.33,"Elephantidae",412
-"Mammuthus africanavus","Africa",3.4,4.2,"Elephantidae",413
-"Mammuthus africanavus","Africa",2.588,3.6,"Elephantidae",414
-"Mammuthus africanavus","Africa",2.588,3.6,"Elephantidae",415
-"Mammuthus africanavus","Africa",2.6,3.4,"Elephantidae",416
-"Mammuthus africanavus","Africa",1.95,2.6,"Elephantidae",417
-"Mammuthus meridionalis","Africa",2.6,3.56,"Elephantidae",502
-"Mammuthus meridionalis","Africa",2.6,2.6,"Elephantidae",503
-"Mammuthus meridionalis","Africa",1.78,1.95,"Elephantidae",504
-"Mammuthus meridionalis","Africa",1.6,1.8,"Elephantidae",505
-"Mammuthus meridionalis","Africa",1.6,1.8,"Elephantidae",505
-"Mammuthus subplanifrons","Africa",5.3,7.1,"Elephantidae",585
-"Mammuthus subplanifrons","Africa",4,5,"Elephantidae",586
-"Mammuthus subplanifrons","Africa",4,5,"Elephantidae",587
-"Mammuthus subplanifrons","Africa",4.2,5.3,"Elephantidae",588
-"Mammuthus subplanifrons","Africa",4.2,5.3,"Elephantidae",589
-"Mammuthus subplanifrons","Africa",3.6,5.33,"Elephantidae",590
-"Mammuthus subplanifrons","Africa",5.15,5.15,"Elephantidae",404
-"Palaeoloxodon jolensis","Africa",0.196,0.205,"Elephantidae",648
-"Palaeoloxodon jolensis","Africa",0.104,0.196,"Elephantidae",649
-"Palaeoloxodon jolensis","Africa",0.126,0.774,"Elephantidae",401
-"Palaeoloxodon recki","Africa",1.53,1.88,"Elephantidae",663
-"Palaeoloxodon recki","Africa",1.62,1.88,"Elephantidae",664
-"Palaeoloxodon recki","Africa",1.53,1.87,"Elephantidae",71
-"Palaeoloxodon recki","Africa",1.53,1.87,"Elephantidae",71
-"Palaeoloxodon recki","Africa",1.53,1.86,"Elephantidae",72
-"Palaeoloxodon recki","Africa",1.53,1.86,"Elephantidae",72
-"Palaeoloxodon recki","Africa",1.53,1.86,"Elephantidae",72
-"Palaeoloxodon recki","Africa",1.53,1.86,"Elephantidae",72
-"Palaeoloxodon recki","Africa",0.8,1.8,"Elephantidae",665
-"Palaeoloxodon recki","Africa",0.8,1.8,"Elephantidae",666
-"Palaeoloxodon recki","Africa",1.53,1.76,"Elephantidae",667
-"Palaeoloxodon recki","Africa",1.38,1.53,"Elephantidae",668
-"Palaeoloxodon recki","Africa",1.38,1.53,"Elephantidae",669
-"Palaeoloxodon recki","Africa",1.38,1.53,"Elephantidae",670
-"Palaeoloxodon recki","Africa",0.74,1.33,"Elephantidae",671
-"Palaeoloxodon recki","Africa",0.95,1.15,"Elephantidae",672
-"Palaeoloxodon recki","Africa",0.8,1.042,"Elephantidae",673
-"Palaeoloxodon recki","Africa",0.78,1,"Elephantidae",674
-"Palaeoloxodon recki","Africa",0.78,0.95,"Elephantidae",675
-"Palaeoloxodon recki","Africa",0.8,1.55,"Elephantidae",676
-"Palaeoloxodon recki","Africa",0.8,1.55,"Elephantidae",676
-"Primelephas korotorensis","Africa",6.54,7.44,"Elephantidae",10
-"Primelephas korotorensis","Africa",5.3,7.1,"Elephantidae",679
-"Primelephas korotorensis","Africa",5.3,6.54,"Elephantidae",11
-"Primelephas korotorensis","Africa",5.6,6.3,"Elephantidae",680
-"Primelephas korotorensis","Africa",5.6,6.3,"Elephantidae",681
-"Primelephas korotorensis","Africa",5.6,6.2,"Elephantidae",682
-"Primelephas korotorensis","Africa",5.6,6.2,"Elephantidae",683
-"Primelephas korotorensis","Africa",5.7,5.7,"Elephantidae",12
-"Primelephas korotorensis","Africa",5.2,5.6,"Elephantidae",14
-"Primelephas korotorensis","Africa",5.54,5.6,"Elephantidae",15
-"Primelephas korotorensis","Africa",5.54,5.6,"Elephantidae",15
-"Primelephas korotorensis","Africa",5,5.5,"Elephantidae",684
-"Primelephas korotorensis","Africa",3.6,5.33,"Elephantidae",685
-"Primelephas korotorensis","Africa",2.6,5.33,"Elephantidae",20
-"Primelephas korotorensis","Africa",4.2,5.3,"Elephantidae",686
-"Primelephas korotorensis","Africa",5.2,5.2,"Elephantidae",25
-"Primelephas korotorensis","Africa",3.6,5.33,"Elephantidae",687
-"Primelephas korotorensis","Africa",3.6,5.33,"Elephantidae",412
-"Primelephas korotorensis","Africa",4.2,5.3,"Elephantidae",688
-"Primelephas korotorensis","Africa",4.2,5.3,"Elephantidae",688
-"Stegodibelodon schneideri","Africa",5.2,6.48,"Elephantidae",689
-"Stegodibelodon schneideri","Africa",3.6,5.33,"Elephantidae",687
-"Stegotetrabelodon orbus","Africa",6.54,7.44,"Elephantidae",701
-"Stegotetrabelodon orbus","Africa",5.3,6.54,"Elephantidae",702
-"Stegotetrabelodon orbus","Africa",5.6,6.2,"Elephantidae",703
-"Stegotetrabelodon orbus","Africa",5.2,5.6,"Elephantidae",704
-"Stegotetrabelodon orbus","Africa",5.54,5.6,"Elephantidae",705
-"Stegotetrabelodon orbus","Africa",4.2,5,"Elephantidae",706
-"Stegotetrabelodon orbus","Africa",4.2,5,"Elephantidae",707
-"Stegotetrabelodon orbus","Africa",4.2,5,"Elephantidae",707
-"Stegotetrabelodon syrticus","Africa",5.3,7.1,"Elephantidae",708
-"Elephas hysudricus","Eurasia",0.117,2.588,"Elephantidae",354
-"Elephas hysudricus","Eurasia",1,2,"Elephantidae",355
-"Elephas hysudricus","Eurasia",0.0117,2.588,"Elephantidae",356
-"Elephas hysudricus","Eurasia",0.117,2.588,"Elephantidae",357
-"Elephas hysudricus","Eurasia",0.117,2.588,"Elephantidae",358
-"Elephas hysudricus","Eurasia",0.117,2.588,"Elephantidae",359
-"Elephas hysudricus","Eurasia",0.117,2.588,"Elephantidae",360
-"Elephas hysudricus","Eurasia",0.117,2.588,"Elephantidae",361
-"Elephas hysudricus","Eurasia",0.63,2,"Elephantidae",362
-"Elephas hysudricus","Eurasia",1,2,"Elephantidae",363
-"Elephas hysudricus","Eurasia",0.117,0.126,"Elephantidae",364
-"Elephas hysudrindicus","Eurasia",0.6,1.3,"Elephantidae",365
-"Elephas hysudrindicus","Eurasia",0,0.7,"Elephantidae",366
-"Elephas maximus","Eurasia",0.6,1.3,"Elephantidae",367
-"Elephas maximus","Eurasia",0.6,1.3,"Elephantidae",368
-"Elephas maximus","Eurasia",0.6,1.3,"Elephantidae",369
-"Elephas maximus","Eurasia",0.06,0.08,"Elephantidae",370
-"Elephas maximus","Eurasia",0,0.01,"Elephantidae",371
-"Elephas planifrons","Eurasia",2.275,4.2,"Elephantidae",372
-"Elephas planifrons","Eurasia",1.95,3.6,"Elephantidae",373
-"Elephas planifrons","Eurasia",1.95,3.6,"Elephantidae",374
-"Elephas planifrons","Eurasia",2.5,3.5,"Elephantidae",375
-"Elephas planifrons","Eurasia",0.63,2,"Elephantidae",362
-"Elephas planifrons","Eurasia",1,2,"Elephantidae",363
-"Mammuthus creticus","Eurasia",0.7,0.8,"Elephantidae",477
-"Mammuthus gromovi","Eurasia",2.433,2.917,"Elephantidae",480
-"Mammuthus gromovi","Eurasia",2.5,3.5,"Elephantidae",481
-"Mammuthus lamarmorai","Eurasia",0.14,0.29,"Elephantidae",482
-"Mammuthus lamarmorai","Eurasia",0.029,0.191,"Elephantidae",483
-"Mammuthus lamarmorai","Eurasia",0.13,0.191,"Elephantidae",484
-"Mammuthus lamarmorai","Eurasia",0.1,0.126,"Elephantidae",485
-"Mammuthus meridionalis","Eurasia",1.95,2.6,"Elephantidae",486
-"Mammuthus meridionalis","Eurasia",1.95,2.6,"Elephantidae",487
-"Mammuthus meridionalis","Eurasia",2.192,2.433,"Elephantidae",488
-"Mammuthus meridionalis","Eurasia",1.95,2.433,"Elephantidae",489
-"Mammuthus meridionalis","Eurasia",1.95,2.275,"Elephantidae",490
-"Mammuthus meridionalis","Eurasia",2.6,3.5,"Elephantidae",491
-"Mammuthus meridionalis","Eurasia",1.95,2.6,"Elephantidae",492
-"Mammuthus meridionalis","Eurasia",1.95,2.6,"Elephantidae",493
-"Mammuthus meridionalis","Eurasia",1.95,2.6,"Elephantidae",494
-"Mammuthus meridionalis","Eurasia",1.806,2.588,"Elephantidae",495
-"Mammuthus meridionalis","Eurasia",2.3,2.4,"Elephantidae",496
-"Mammuthus meridionalis","Eurasia",1.6,2,"Elephantidae",497
-"Mammuthus meridionalis","Eurasia",1.4,1.583,"Elephantidae",498
-"Mammuthus meridionalis","Eurasia",0.9,1.22,"Elephantidae",499
-"Mammuthus meridionalis","Eurasia",0.9,1.22,"Elephantidae",500
-"Mammuthus meridionalis","Eurasia",0.427,0.621,"Elephantidae",501
-"Mammuthus meridionalis","Eurasia",1.95,2.675,"Elephantidae",508
-"Mammuthus meridionalis","Eurasia",1.98,2.6,"Elephantidae",509
-"Mammuthus meridionalis","Eurasia",2.1,2.6,"Elephantidae",510
-"Mammuthus meridionalis","Eurasia",2.32,2.6,"Elephantidae",511
-"Mammuthus meridionalis","Eurasia",1.95,2.6,"Elephantidae",512
-"Mammuthus meridionalis","Eurasia",1.95,2.6,"Elephantidae",513
-"Mammuthus meridionalis","Eurasia",1.98,2.6,"Elephantidae",514
-"Mammuthus meridionalis","Eurasia",1.98,2.6,"Elephantidae",515
-"Mammuthus meridionalis","Eurasia",2.09,2.21,"Elephantidae",516
-"Mammuthus meridionalis","Eurasia",1.98,2.14,"Elephantidae",517
-"Mammuthus meridionalis","Eurasia",1.98,2.14,"Elephantidae",518
-"Mammuthus meridionalis","Eurasia",1.6,2,"Elephantidae",519
-"Mammuthus meridionalis","Eurasia",1.7,2,"Elephantidae",520
-"Mammuthus meridionalis","Eurasia",0.3,1.9,"Elephantidae",521
-"Mammuthus meridionalis","Eurasia",0.781,1.9,"Elephantidae",522
-"Mammuthus meridionalis","Eurasia",0.9,1.9,"Elephantidae",523
-"Mammuthus meridionalis","Eurasia",1.68,1.86,"Elephantidae",524
-"Mammuthus meridionalis","Eurasia",1.68,1.86,"Elephantidae",525
-"Mammuthus meridionalis","Eurasia",1.6,1.8,"Elephantidae",526
-"Mammuthus meridionalis","Eurasia",1.6,1.8,"Elephantidae",527
-"Mammuthus meridionalis","Eurasia",1.75,1.8,"Elephantidae",528
-"Mammuthus meridionalis","Eurasia",1.3,1.7,"Elephantidae",529
-"Mammuthus meridionalis","Eurasia",1.1,1.3,"Elephantidae",530
-"Mammuthus meridionalis","Eurasia",0.988,1.07,"Elephantidae",531
-"Mammuthus meridionalis","Eurasia",1.806,2.588,"Elephantidae",532
-"Mammuthus meridionalis","Eurasia",1.9,2.5,"Elephantidae",533
-"Mammuthus meridionalis","Eurasia",1.54,2.32,"Elephantidae",534
-"Mammuthus meridionalis","Eurasia",1.37,2.11,"Elephantidae",535
-"Mammuthus meridionalis","Eurasia",1.19,1.567,"Elephantidae",536
-"Mammuthus meridionalis","Eurasia",1.1,1.3,"Elephantidae",537
-"Mammuthus meridionalis","Eurasia",1.95,2.675,"Elephantidae",538
-"Mammuthus meridionalis","Eurasia",1.95,2.675,"Elephantidae",539
-"Mammuthus meridionalis","Eurasia",1.95,2.675,"Elephantidae",540
-"Mammuthus meridionalis","Eurasia",1.95,2.6,"Elephantidae",541
-"Mammuthus meridionalis","Eurasia",1.95,2.6,"Elephantidae",542
-"Mammuthus meridionalis","Eurasia",1.95,2.6,"Elephantidae",543
-"Mammuthus meridionalis","Eurasia",1.95,2.6,"Elephantidae",544
-"Mammuthus meridionalis","Eurasia",2,2,"Elephantidae",545
-"Mammuthus meridionalis","Eurasia",0.5,1,"Elephantidae",546
-"Mammuthus primigenius","Eurasia",0.117,0.781,"Elephantidae",547
-"Mammuthus primigenius","Eurasia",0.126,0.781,"Elephantidae",548
-"Mammuthus primigenius","Eurasia",0.126,0.781,"Elephantidae",549
-"Mammuthus primigenius","Eurasia",0.012,0.126,"Elephantidae",550
-"Mammuthus primigenius","Eurasia",0.012,0.126,"Elephantidae",551
-"Mammuthus primigenius","Eurasia",0.012,0.126,"Elephantidae",552
-"Mammuthus primigenius","Eurasia",0.012,0.126,"Elephantidae",553
-"Mammuthus primigenius","Eurasia",0.004,0.009,"Elephantidae",554
-"Mammuthus primigenius","Eurasia",0.012,0.126,"Elephantidae",575
-"Mammuthus primigenius","Eurasia",0.01,0.126,"Elephantidae",576
-"Mammuthus primigenius","Eurasia",0.012,0.126,"Elephantidae",577
-"Mammuthus primigenius","Eurasia",0.012,0.126,"Elephantidae",578
-"Mammuthus primigenius","Eurasia",0.012,0.126,"Elephantidae",579
-"Mammuthus primigenius","Eurasia",0.012,0.126,"Elephantidae",580
-"Mammuthus primigenius","Eurasia",0.012,0.126,"Elephantidae",581
-"Mammuthus protomammonteus","Eurasia",0.5,1,"Elephantidae",582
-"Mammuthus rumanus","Eurasia",2.6,3.4,"Elephantidae",583
-"Mammuthus rumanus","Eurasia",2.6,3.4,"Elephantidae",584
-"Mammuthus trogontherii","Eurasia",0.126,0.781,"Elephantidae",591
-"Mammuthus trogontherii","Eurasia",0.126,0.781,"Elephantidae",592
-"Mammuthus trogontherii","Eurasia",0.761,0.79,"Elephantidae",593
-"Mammuthus trogontherii","Eurasia",0.126,0.781,"Elephantidae",594
-"Mammuthus trogontherii","Eurasia",0.126,0.781,"Elephantidae",595
-"Mammuthus trogontherii","Eurasia",0.126,0.781,"Elephantidae",596
-"Mammuthus trogontherii","Eurasia",0.126,0.781,"Elephantidae",597
-"Mammuthus trogontherii","Eurasia",0.126,0.781,"Elephantidae",598
-"Mammuthus trogontherii","Eurasia",0.126,0.781,"Elephantidae",599
-"Mammuthus trogontherii","Eurasia",0.126,0.781,"Elephantidae",600
-"Mammuthus trogontherii","Eurasia",0.621,0.761,"Elephantidae",601
-"Mammuthus trogontherii","Eurasia",0.435,0.781,"Elephantidae",602
-"Mammuthus trogontherii","Eurasia",0.424,0.774,"Elephantidae",603
-"Mammuthus trogontherii","Eurasia",0.424,0.774,"Elephantidae",604
-"Mammuthus trogontherii","Eurasia",0.424,0.774,"Elephantidae",605
-"Mammuthus trogontherii","Eurasia",0.781,1.03,"Elephantidae",606
-"Mammuthus trogontherii","Eurasia",0.6,0.781,"Elephantidae",607
-"Mammuthus trogontherii","Eurasia",0.126,0.781,"Elephantidae",608
-"Mammuthus trogontherii","Eurasia",0.117,0.781,"Elephantidae",609
-"Mammuthus trogontherii","Eurasia",0.126,0.781,"Elephantidae",610
-"Mammuthus trogontherii","Eurasia",0.126,0.781,"Elephantidae",611
-"Mammuthus trogontherii","Eurasia",0.126,0.781,"Elephantidae",612
-"Mammuthus trogontherii","Eurasia",0.126,0.781,"Elephantidae",613
-"Mammuthus trogontherii","Eurasia",0.126,0.781,"Elephantidae",614
-"Mammuthus trogontherii","Eurasia",0.424,0.781,"Elephantidae",615
-"Mammuthus trogontherii","Eurasia",0.676,0.781,"Elephantidae",616
-"Mammuthus trogontherii","Eurasia",0.676,0.781,"Elephantidae",617
-"Mammuthus trogontherii","Eurasia",0.46,0.46,"Elephantidae",618
-"Palaeoloxodon antiquus","Eurasia",0.424,0.774,"Elephantidae",604
-"Palaeoloxodon antiquus","Eurasia",0.1,0.126,"Elephantidae",619
-"Palaeoloxodon antiquus","Eurasia",0.1,0.126,"Elephantidae",620
-"Palaeoloxodon antiquus","Eurasia",0.126,0.781,"Elephantidae",621
-"Palaeoloxodon antiquus","Eurasia",0.126,0.781,"Elephantidae",622
-"Palaeoloxodon antiquus","Eurasia",0.126,0.781,"Elephantidae",623
-"Palaeoloxodon antiquus","Eurasia",0.126,0.781,"Elephantidae",624
-"Palaeoloxodon antiquus","Eurasia",0.126,0.781,"Elephantidae",625
-"Palaeoloxodon antiquus","Eurasia",0.126,0.781,"Elephantidae",626
-"Palaeoloxodon antiquus","Eurasia",0.126,0.781,"Elephantidae",627
-"Palaeoloxodon antiquus","Eurasia",0.6,0.781,"Elephantidae",628
-"Palaeoloxodon antiquus","Eurasia",0.126,0.781,"Elephantidae",629
-"Palaeoloxodon antiquus","Eurasia",0.126,0.781,"Elephantidae",630
-"Palaeoloxodon antiquus","Eurasia",0.126,0.781,"Elephantidae",631
-"Palaeoloxodon antiquus","Eurasia",0.126,0.781,"Elephantidae",632
-"Palaeoloxodon antiquus","Eurasia",0.126,0.781,"Elephantidae",633
-"Palaeoloxodon antiquus","Eurasia",0.126,0.781,"Elephantidae",634
-"Palaeoloxodon antiquus","Eurasia",0.126,0.781,"Elephantidae",635
-"Palaeoloxodon antiquus","Eurasia",0.126,0.781,"Elephantidae",636
-"Palaeoloxodon antiquus","Eurasia",0.126,0.781,"Elephantidae",637
-"Palaeoloxodon antiquus","Eurasia",0.126,0.781,"Elephantidae",638
-"Palaeoloxodon antiquus","Eurasia",0.126,0.781,"Elephantidae",639
-"Palaeoloxodon antiquus","Eurasia",0.039,0.1,"Elephantidae",640
-"Palaeoloxodon antiquus","Eurasia",0.126,0.781,"Elephantidae",641
-"Palaeoloxodon antiquus","Eurasia",0.424,0.781,"Elephantidae",615
-"Palaeoloxodon antiquus","Eurasia",0.397,0.662,"Elephantidae",642
-"Palaeoloxodon creutzburgi","Eurasia",0.012,0.126,"Elephantidae",643
-"Palaeoloxodon cypriotes","Eurasia",0.126,0.781,"Elephantidae",644
-"Palaeoloxodon falconeri","Eurasia",0.781,1.8,"Elephantidae",645
-"Palaeoloxodon falconeri","Eurasia",0.781,1.8,"Elephantidae",646
-"Palaeoloxodon falconeri","Eurasia",0.781,1.8,"Elephantidae",647
-"Palaeoloxodon falconeri","Eurasia",0.781,1.8,"Elephantidae",647
-"Palaeoloxodon lomolinoi","Eurasia",0.012,0.126,"Elephantidae",650
-"Palaeoloxodon mnaidriensis","Eurasia",0.13,0.43,"Elephantidae",651
-"Palaeoloxodon mnaidriensis","Eurasia",0.13,0.43,"Elephantidae",652
-"Palaeoloxodon namadicus","Eurasia",0.6,1.3,"Elephantidae",653
-"Palaeoloxodon namadicus","Eurasia",0.012,0.7,"Elephantidae",654
-"Palaeoloxodon namadicus","Eurasia",1.2,1.8,"Elephantidae",655
-"Palaeoloxodon namadicus","Eurasia",0.6,1.3,"Elephantidae",656
-"Palaeoloxodon namadicus","Eurasia",0.6,1.3,"Elephantidae",657
-"Palaeoloxodon namadicus","Eurasia",0.35,0.6,"Elephantidae",658
-"Palaeoloxodon naumanni","Eurasia",0.012,0.7,"Elephantidae",659
-"Palaeoloxodon naumanni","Eurasia",0.0117,0.126,"Elephantidae",660
-"Palaeoloxodon naumanni","Eurasia",0.0117,0.126,"Elephantidae",661
-"Palaeoloxodon naumanni","Eurasia",0.0117,0.126,"Elephantidae",662
-"Palaeoloxodon tiliensis","Eurasia",0.012,0.126,"Elephantidae",677
-"Platelephas platycephalus","Eurasia",2.6,3.56,"Elephantidae",678
-"Platelephas platycephalus","Eurasia",0.63,2,"Elephantidae",362
-"Stegoloxodon celebensis","Eurasia",2.588,3.6,"Elephantidae",690
-"Stegoloxodon celebensis","Eurasia",2.588,3.6,"Elephantidae",691
-"Stegoloxodon celebensis","Eurasia",2.588,3.6,"Elephantidae",692
-"Stegoloxodon celebensis","Eurasia",2.588,3.6,"Elephantidae",693
-"Stegoloxodon celebensis","Eurasia",2.588,3.6,"Elephantidae",693
-"Stegoloxodon celebensis","Eurasia",2.588,3.6,"Elephantidae",694
-"Stegoloxodon celebensis","Eurasia",2.588,3.6,"Elephantidae",695
-"Stegoloxodon celebensis","Eurasia",2.588,3.6,"Elephantidae",696
-"Stegoloxodon celebensis","Eurasia",2.588,3.6,"Elephantidae",697
-"Stegoloxodon celebensis","Eurasia",2.588,3.6,"Elephantidae",698
-"Stegoloxodon indonesicus","Eurasia",2,3,"Elephantidae",699
-"Stegoloxodon indonesicus","Eurasia",1.5,2.588,"Elephantidae",700
-"Stegotetrabelodon syrticus","Eurasia",5.3,9,"Elephantidae",709
-"Stegotetrabelodon syrticus","Eurasia",7.1,8.2,"Elephantidae",710
-"Stegotetrabelodon syrticus","Eurasia",5.3,8.2,"Elephantidae",711
-"Stegotetrabelodon syrticus","Eurasia",5.3,8.2,"Elephantidae",712
-"Stegotetrabelodon syrticus","Eurasia",5.3,8.2,"Elephantidae",713
-"Stegotetrabelodon syrticus","Eurasia",5.3,8.2,"Elephantidae",714
-"Stegotetrabelodon syrticus","Eurasia",5.3,8.2,"Elephantidae",715
-"Mammuthus columbi","North America",0.126,0.781,"Elephantidae",425
-"Mammuthus columbi","North America",0.126,0.781,"Elephantidae",426
-"Mammuthus columbi","North America",0.126,0.781,"Elephantidae",426
-"Mammuthus columbi","North America",0.012,0.3,"Elephantidae",427
-"Mammuthus columbi","North America",0.012,0.3,"Elephantidae",428
-"Mammuthus columbi","North America",0.012,0.3,"Elephantidae",429
-"Mammuthus columbi","North America",0.012,0.3,"Elephantidae",430
-"Mammuthus columbi","North America",0.012,0.126,"Elephantidae",431
-"Mammuthus columbi","North America",0.012,0.126,"Elephantidae",432
-"Mammuthus columbi","North America",0.012,0.126,"Elephantidae",433
-"Mammuthus columbi","North America",0.012,0.126,"Elephantidae",434
-"Mammuthus columbi","North America",0.012,0.126,"Elephantidae",435
-"Mammuthus columbi","North America",0.012,0.126,"Elephantidae",436
-"Mammuthus columbi","North America",0.012,0.126,"Elephantidae",437
-"Mammuthus columbi","North America",0.012,0.126,"Elephantidae",438
-"Mammuthus columbi","North America",0.012,0.126,"Elephantidae",439
-"Mammuthus columbi","North America",0.012,0.126,"Elephantidae",440
-"Mammuthus columbi","North America",0.012,0.126,"Elephantidae",441
-"Mammuthus columbi","North America",0.012,0.126,"Elephantidae",442
-"Mammuthus columbi","North America",0.012,0.126,"Elephantidae",443
-"Mammuthus columbi","North America",0.012,0.126,"Elephantidae",444
-"Mammuthus columbi","North America",0.012,0.126,"Elephantidae",445
-"Mammuthus columbi","North America",0.012,0.126,"Elephantidae",446
-"Mammuthus columbi","North America",0.012,0.126,"Elephantidae",447
-"Mammuthus columbi","North America",0.012,0.126,"Elephantidae",448
-"Mammuthus columbi","North America",0.012,0.126,"Elephantidae",449
-"Mammuthus columbi","North America",0.012,0.126,"Elephantidae",450
-"Mammuthus columbi","North America",0.012,0.126,"Elephantidae",451
-"Mammuthus columbi","North America",0.012,0.126,"Elephantidae",452
-"Mammuthus columbi","North America",0.012,0.126,"Elephantidae",453
-"Mammuthus columbi","North America",0.012,0.126,"Elephantidae",454
-"Mammuthus columbi","North America",0.012,0.126,"Elephantidae",455
-"Mammuthus columbi","North America",0.012,0.126,"Elephantidae",456
-"Mammuthus columbi","North America",0.0117,0.126,"Elephantidae",457
-"Mammuthus columbi","North America",0.012,0.126,"Elephantidae",458
-"Mammuthus columbi","North America",0.012,0.126,"Elephantidae",459
-"Mammuthus columbi","North America",0.012,0.126,"Elephantidae",460
-"Mammuthus columbi","North America",0.012,0.126,"Elephantidae",461
-"Mammuthus columbi","North America",0.012,0.126,"Elephantidae",462
-"Mammuthus columbi","North America",0.012,0.126,"Elephantidae",463
-"Mammuthus columbi","North America",0.012,0.126,"Elephantidae",464
-"Mammuthus columbi","North America",0.012,0.126,"Elephantidae",465
-"Mammuthus columbi","North America",0.012,0.126,"Elephantidae",466
-"Mammuthus columbi","North America",0.012,0.126,"Elephantidae",467
-"Mammuthus columbi","North America",0.012,0.126,"Elephantidae",468
-"Mammuthus columbi","North America",0.012,0.126,"Elephantidae",469
-"Mammuthus columbi","North America",0.012,0.126,"Elephantidae",470
-"Mammuthus columbi","North America",0.012,0.126,"Elephantidae",471
-"Mammuthus columbi","North America",0.012,0.126,"Elephantidae",472
-"Mammuthus columbi","North America",0.012,0.126,"Elephantidae",473
-"Mammuthus columbi","North America",0.012,0.126,"Elephantidae",474
-"Mammuthus columbi","North America",0.012,0.126,"Elephantidae",475
-"Mammuthus columbi","North America",0.012,0.126,"Elephantidae",476
-"Mammuthus exilis","North America",0.012,0.3,"Elephantidae",478
-"Mammuthus exilis","North America",0.012,0.126,"Elephantidae",479
-"Mammuthus meridionalis","North America",0.85,1.9,"Elephantidae",506
-"Mammuthus meridionalis","North America",0.85,1.9,"Elephantidae",507
-"Mammuthus primigenius","North America",0.126,0.781,"Elephantidae",555
-"Mammuthus primigenius","North America",0.012,0.126,"Elephantidae",556
-"Mammuthus primigenius","North America",0.012,0.126,"Elephantidae",557
-"Mammuthus primigenius","North America",0.012,0.126,"Elephantidae",558
-"Mammuthus primigenius","North America",0.012,0.126,"Elephantidae",559
-"Mammuthus primigenius","North America",0.012,0.126,"Elephantidae",560
-"Mammuthus primigenius","North America",0.012,0.126,"Elephantidae",561
-"Mammuthus primigenius","North America",0.012,0.126,"Elephantidae",562
-"Mammuthus primigenius","North America",0.012,0.126,"Elephantidae",563
-"Mammuthus primigenius","North America",0.012,0.126,"Elephantidae",564
-"Mammuthus primigenius","North America",0.012,0.126,"Elephantidae",565
-"Mammuthus primigenius","North America",0.012,0.126,"Elephantidae",566
-"Mammuthus primigenius","North America",0.012,0.126,"Elephantidae",567
-"Mammuthus primigenius","North America",0.012,0.126,"Elephantidae",568
-"Mammuthus primigenius","North America",0.012,0.126,"Elephantidae",569
-"Mammuthus primigenius","North America",0.012,0.126,"Elephantidae",467
-"Mammuthus primigenius","North America",0.012,0.126,"Elephantidae",468
-"Mammuthus primigenius","North America",0.012,0.126,"Elephantidae",570
-"Mammuthus primigenius","North America",0.012,0.126,"Elephantidae",571
-"Mammuthus primigenius","North America",0.012,0.126,"Elephantidae",572
-"Mammuthus primigenius","North America",0.012,0.126,"Elephantidae",573
-"Mammuthus primigenius","North America",0.01,0.012,"Elephantidae",574
+"Elephas_atavus","Africa",2.6,3.56,"Elephantidae",341
+"Elephas_atavus","Africa",2.91,3.44,"Elephantidae",42
+"Elephas_atavus","Africa",2.91,3.44,"Elephantidae",43
+"Elephas_atavus","Africa",2.91,3.44,"Elephantidae",44
+"Elephas_atavus","Africa",1.8,2.4,"Elephantidae",342
+"Elephas_atavus","Africa",1.87,2.33,"Elephantidae",343
+"Elephas_atavus","Africa",2.06,2.33,"Elephantidae",344
+"Elephas_atavus","Africa",2.27,2.32,"Elephantidae",63
+"Elephas_atavus","Africa",2.27,2.32,"Elephantidae",64
+"Elephas_atavus","Africa",2.1,2.3,"Elephantidae",345
+"Elephas_atavus","Africa",1.9,2.27,"Elephantidae",65
+"Elephas_atavus","Africa",1.88,2,"Elephantidae",66
+"Elephas_atavus","Africa",1.86,2,"Elephantidae",67
+"Elephas_atavus","Africa",1.86,2,"Elephantidae",67
+"Elephas_atavus","Africa",1.78,1.95,"Elephantidae",346
+"Elephas_atavus","Africa",1.78,1.95,"Elephantidae",346
+"Elephas_atavus","Africa",1.53,1.87,"Elephantidae",70
+"Elephas_atavus","Africa",1.53,1.87,"Elephantidae",71
+"Elephas_atavus","Africa",1.785,1.845,"Elephantidae",73
+"Elephas_atavus","Africa",1.6,1.8,"Elephantidae",347
+"Elephas_atavus","Africa",1.15,1.785,"Elephantidae",74
+"Elephas_atavus","Africa",1.81,2.2,"Elephantidae",348
+"Elephas_ekorensis","Africa",2.6,5.33,"Elephantidae",349
+"Elephas_ekorensis","Africa",4.2,5.3,"Elephantidae",24
+"Elephas_ekorensis","Africa",4,4.5,"Elephantidae",350
+"Elephas_ekorensis","Africa",3.6,4.2,"Elephantidae",29
+"Elephas_ekorensis","Africa",3.4,4.2,"Elephantidae",30
+"Elephas_ekorensis","Africa",4.07,4.17,"Elephantidae",31
+"Elephas_ekorensis","Africa",3,3.9,"Elephantidae",33
+"Elephas_ekorensis","Africa",3.2,3.8,"Elephantidae",351
+"Elephas_ekorensis","Africa",2.6,3.56,"Elephantidae",352
+"Elephas_ekorensis","Africa",2.95,3.56,"Elephantidae",353
+"Elephas_ekorensis","Africa",2.6,3.56,"Elephantidae",39
+"Elephas_ekorensis","Africa",2.6,3.56,"Elephantidae",40
+"Elephas_ekorensis","Africa",3.2,3.446,"Elephantidae",41
+"Elephas_ekorensis","Africa",3.18,3.22,"Elephantidae",50
+"Elephas_planifrons","Africa",3.44,3.6,"Elephantidae",37
+"Elephas_planifrons","Africa",1.88,2,"Elephantidae",66
+"Loxodonta_adaurora","Africa",2.6,5.33,"Elephantidae",349
+"Loxodonta_adaurora","Africa",4.2,5.3,"Elephantidae",24
+"Loxodonta_adaurora","Africa",3.6,4.2,"Elephantidae",28
+"Loxodonta_adaurora","Africa",3.6,4.2,"Elephantidae",29
+"Loxodonta_adaurora","Africa",3.4,4.2,"Elephantidae",30
+"Loxodonta_adaurora","Africa",4.07,4.17,"Elephantidae",31
+"Loxodonta_adaurora","Africa",3.4,3.94,"Elephantidae",376
+"Loxodonta_adaurora","Africa",3.4,3.94,"Elephantidae",32
+"Loxodonta_adaurora","Africa",3.4,3.9,"Elephantidae",377
+"Loxodonta_adaurora","Africa",3,3.9,"Elephantidae",33
+"Loxodonta_adaurora","Africa",3.4,3.6,"Elephantidae",35
+"Loxodonta_adaurora","Africa",3.44,3.6,"Elephantidae",37
+"Loxodonta_adaurora","Africa",2.6,3.56,"Elephantidae",38
+"Loxodonta_adaurora","Africa",2.6,3.56,"Elephantidae",40
+"Loxodonta_adaurora","Africa",2.6,3.56,"Elephantidae",378
+"Loxodonta_adaurora","Africa",3.2,3.446,"Elephantidae",41
+"Loxodonta_adaurora","Africa",2.53,3.44,"Elephantidae",379
+"Loxodonta_adaurora","Africa",2.52,3.4,"Elephantidae",380
+"Loxodonta_adaurora","Africa",2.52,3.4,"Elephantidae",47
+"Loxodonta_adaurora","Africa",3.18,3.22,"Elephantidae",50
+"Loxodonta_adaurora","Africa",2.53,2.91,"Elephantidae",51
+"Loxodonta_adaurora","Africa",2.32,2.4,"Elephantidae",381
+"Loxodonta_africana","Africa",0.117,0.781,"Elephantidae",382
+"Loxodonta_africana","Africa",0,0.012,"Elephantidae",383
+"Loxodonta_africana","Africa",0,0.012,"Elephantidae",384
+"Loxodonta_africana","Africa",0,0.012,"Elephantidae",385
+"Loxodonta_africana","Africa",0.082,0.17,"Elephantidae",386
+"Loxodonta_africana","Africa",0.012,0.04,"Elephantidae",387
+"Loxodonta_africana","Africa",0,0.012,"Elephantidae",388
+"Loxodonta_africana","Africa",0,0.012,"Elephantidae",389
+"Loxodonta_africana","Africa",0,0.012,"Elephantidae",390
+"Loxodonta_africana","Africa",0.056,0.17,"Elephantidae",391
+"Loxodonta_africana","Africa",0.012,0.126,"Elephantidae",392
+"Loxodonta_africana","Africa",0.012,0.126,"Elephantidae",393
+"Loxodonta_africana","Africa",0.035,0.125,"Elephantidae",394
+"Loxodonta_africana","Africa",0.056,0.074,"Elephantidae",395
+"Loxodonta_africana","Africa",0.04,0.04,"Elephantidae",396
+"Loxodonta_africana","Africa",0,0.012,"Elephantidae",397
+"Loxodonta_africana","Africa",0,0.012,"Elephantidae",398
+"Loxodonta_atlantica","Africa",2.4,2.53,"Elephantidae",57
+"Loxodonta_atlantica","Africa",0.8,1.8,"Elephantidae",399
+"Loxodonta_atlantica","Africa",0.126,0.8,"Elephantidae",400
+"Loxodonta_atlantica","Africa",0.126,0.774,"Elephantidae",401
+"Loxodonta_atlantica","Africa",0.59,0.6,"Elephantidae",402
+"Loxodonta_cookei","Africa",5.6,6.2,"Elephantidae",403
+"Loxodonta_cookei","Africa",5.15,5.15,"Elephantidae",404
+"Loxodonta_cyclotis","Africa",0.01,0.012,"Elephantidae",405
+"Loxodonta_exoptata","Africa",3.6,5.33,"Elephantidae",17
+"Loxodonta_exoptata","Africa",3.6,5.33,"Elephantidae",406
+"Loxodonta_exoptata","Africa",4,4.5,"Elephantidae",350
+"Loxodonta_exoptata","Africa",3.6,4.2,"Elephantidae",28
+"Loxodonta_exoptata","Africa",3.6,4.2,"Elephantidae",29
+"Loxodonta_exoptata","Africa",3.58,3.85,"Elephantidae",407
+"Loxodonta_exoptata","Africa",3.4,3.6,"Elephantidae",36
+"Loxodonta_exoptata","Africa",2.6,3.56,"Elephantidae",408
+"Loxodonta_exoptata","Africa",2.6,3.56,"Elephantidae",378
+"Loxodonta_exoptata","Africa",2.64,3.4,"Elephantidae",49
+"Loxodonta_exoptata","Africa",3.18,3.22,"Elephantidae",50
+"Loxodonta_exoptata","Africa",2.32,2.66,"Elephantidae",409
+"Loxodonta_exoptata","Africa",2.32,2.66,"Elephantidae",410
+"Loxodonta_exoptata","Africa",2.5,2.5,"Elephantidae",60
+"Loxodonta_exoptata","Africa",3,3.5,"Elephantidae",411
+"Mammuthus_africanavus","Africa",3.6,5.33,"Elephantidae",412
+"Mammuthus_africanavus","Africa",3.4,4.2,"Elephantidae",413
+"Mammuthus_africanavus","Africa",2.588,3.6,"Elephantidae",414
+"Mammuthus_africanavus","Africa",2.588,3.6,"Elephantidae",415
+"Mammuthus_africanavus","Africa",2.6,3.4,"Elephantidae",416
+"Mammuthus_africanavus","Africa",1.95,2.6,"Elephantidae",417
+"Mammuthus_meridionalis","Africa",2.6,3.56,"Elephantidae",495
+"Mammuthus_meridionalis","Africa",2.6,2.6,"Elephantidae",496
+"Mammuthus_meridionalis","Africa",1.78,1.95,"Elephantidae",497
+"Mammuthus_meridionalis","Africa",1.6,1.8,"Elephantidae",498
+"Mammuthus_meridionalis","Africa",1.6,1.8,"Elephantidae",498
+"Mammuthus_subplanifrons","Africa",5.3,7.1,"Elephantidae",578
+"Mammuthus_subplanifrons","Africa",4,5,"Elephantidae",579
+"Mammuthus_subplanifrons","Africa",4,5,"Elephantidae",580
+"Mammuthus_subplanifrons","Africa",4.2,5.3,"Elephantidae",581
+"Mammuthus_subplanifrons","Africa",4.2,5.3,"Elephantidae",582
+"Mammuthus_subplanifrons","Africa",3.6,5.33,"Elephantidae",583
+"Mammuthus_subplanifrons","Africa",5.15,5.15,"Elephantidae",404
+"Palaeoloxodon_jolensis","Africa",0.196,0.205,"Elephantidae",641
+"Palaeoloxodon_jolensis","Africa",0.104,0.196,"Elephantidae",642
+"Palaeoloxodon_jolensis","Africa",0.126,0.774,"Elephantidae",401
+"Palaeoloxodon_recki","Africa",1.53,1.88,"Elephantidae",656
+"Palaeoloxodon_recki","Africa",1.62,1.88,"Elephantidae",657
+"Palaeoloxodon_recki","Africa",1.53,1.87,"Elephantidae",71
+"Palaeoloxodon_recki","Africa",1.53,1.87,"Elephantidae",71
+"Palaeoloxodon_recki","Africa",1.53,1.86,"Elephantidae",72
+"Palaeoloxodon_recki","Africa",1.53,1.86,"Elephantidae",72
+"Palaeoloxodon_recki","Africa",1.53,1.86,"Elephantidae",72
+"Palaeoloxodon_recki","Africa",1.53,1.86,"Elephantidae",72
+"Palaeoloxodon_recki","Africa",0.8,1.8,"Elephantidae",658
+"Palaeoloxodon_recki","Africa",0.8,1.8,"Elephantidae",659
+"Palaeoloxodon_recki","Africa",1.53,1.76,"Elephantidae",660
+"Palaeoloxodon_recki","Africa",1.38,1.53,"Elephantidae",661
+"Palaeoloxodon_recki","Africa",1.38,1.53,"Elephantidae",662
+"Palaeoloxodon_recki","Africa",1.38,1.53,"Elephantidae",663
+"Palaeoloxodon_recki","Africa",0.74,1.33,"Elephantidae",664
+"Palaeoloxodon_recki","Africa",0.95,1.15,"Elephantidae",665
+"Palaeoloxodon_recki","Africa",0.8,1.042,"Elephantidae",666
+"Palaeoloxodon_recki","Africa",0.78,1,"Elephantidae",667
+"Palaeoloxodon_recki","Africa",0.78,0.95,"Elephantidae",668
+"Palaeoloxodon_recki","Africa",0.8,1.55,"Elephantidae",669
+"Palaeoloxodon_recki","Africa",0.8,1.55,"Elephantidae",669
+"Primelephas_korotorensis","Africa",6.54,7.44,"Elephantidae",10
+"Primelephas_korotorensis","Africa",5.3,7.1,"Elephantidae",672
+"Primelephas_korotorensis","Africa",5.3,6.54,"Elephantidae",11
+"Primelephas_korotorensis","Africa",5.6,6.3,"Elephantidae",673
+"Primelephas_korotorensis","Africa",5.6,6.3,"Elephantidae",674
+"Primelephas_korotorensis","Africa",5.6,6.2,"Elephantidae",675
+"Primelephas_korotorensis","Africa",5.6,6.2,"Elephantidae",676
+"Primelephas_korotorensis","Africa",5.7,5.7,"Elephantidae",12
+"Primelephas_korotorensis","Africa",5.2,5.6,"Elephantidae",14
+"Primelephas_korotorensis","Africa",5.54,5.6,"Elephantidae",15
+"Primelephas_korotorensis","Africa",5.54,5.6,"Elephantidae",15
+"Primelephas_korotorensis","Africa",5,5.5,"Elephantidae",677
+"Primelephas_korotorensis","Africa",3.6,5.33,"Elephantidae",678
+"Primelephas_korotorensis","Africa",2.6,5.33,"Elephantidae",20
+"Primelephas_korotorensis","Africa",4.2,5.3,"Elephantidae",679
+"Primelephas_korotorensis","Africa",5.2,5.2,"Elephantidae",25
+"Primelephas_korotorensis","Africa",3.6,5.33,"Elephantidae",680
+"Primelephas_korotorensis","Africa",3.6,5.33,"Elephantidae",412
+"Primelephas_korotorensis","Africa",4.2,5.3,"Elephantidae",681
+"Primelephas_korotorensis","Africa",4.2,5.3,"Elephantidae",681
+"Stegodibelodon_schneideri","Africa",5.2,6.48,"Elephantidae",682
+"Stegodibelodon_schneideri","Africa",3.6,5.33,"Elephantidae",680
+"Stegotetrabelodon_orbus","Africa",6.54,7.44,"Elephantidae",694
+"Stegotetrabelodon_orbus","Africa",5.3,6.54,"Elephantidae",695
+"Stegotetrabelodon_orbus","Africa",5.6,6.2,"Elephantidae",696
+"Stegotetrabelodon_orbus","Africa",5.2,5.6,"Elephantidae",697
+"Stegotetrabelodon_orbus","Africa",5.54,5.6,"Elephantidae",698
+"Stegotetrabelodon_orbus","Africa",4.2,5,"Elephantidae",699
+"Stegotetrabelodon_orbus","Africa",4.2,5,"Elephantidae",700
+"Stegotetrabelodon_orbus","Africa",4.2,5,"Elephantidae",700
+"Stegotetrabelodon_syrticus","Africa",5.3,7.1,"Elephantidae",701
+"Elephas_hysudricus","Eurasia",0.117,2.588,"Elephantidae",354
+"Elephas_hysudricus","Eurasia",1,2,"Elephantidae",355
+"Elephas_hysudricus","Eurasia",0.0117,2.588,"Elephantidae",356
+"Elephas_hysudricus","Eurasia",0.117,2.588,"Elephantidae",357
+"Elephas_hysudricus","Eurasia",0.117,2.588,"Elephantidae",358
+"Elephas_hysudricus","Eurasia",0.117,2.588,"Elephantidae",359
+"Elephas_hysudricus","Eurasia",0.117,2.588,"Elephantidae",360
+"Elephas_hysudricus","Eurasia",0.117,2.588,"Elephantidae",361
+"Elephas_hysudricus","Eurasia",0.63,2,"Elephantidae",362
+"Elephas_hysudricus","Eurasia",1,2,"Elephantidae",363
+"Elephas_hysudricus","Eurasia",0.117,0.126,"Elephantidae",364
+"Elephas_hysudrindicus","Eurasia",0.6,1.3,"Elephantidae",365
+"Elephas_hysudrindicus","Eurasia",0,0.7,"Elephantidae",366
+"Elephas_maximus","Eurasia",0.6,1.3,"Elephantidae",367
+"Elephas_maximus","Eurasia",0.6,1.3,"Elephantidae",368
+"Elephas_maximus","Eurasia",0.6,1.3,"Elephantidae",369
+"Elephas_maximus","Eurasia",0.06,0.08,"Elephantidae",370
+"Elephas_maximus","Eurasia",0,0.01,"Elephantidae",371
+"Elephas_planifrons","Eurasia",2.275,4.2,"Elephantidae",372
+"Elephas_planifrons","Eurasia",1.95,3.6,"Elephantidae",373
+"Elephas_planifrons","Eurasia",1.95,3.6,"Elephantidae",374
+"Elephas_planifrons","Eurasia",2.5,3.5,"Elephantidae",375
+"Elephas_planifrons","Eurasia",0.63,2,"Elephantidae",362
+"Elephas_planifrons","Eurasia",1,2,"Elephantidae",363
+"Mammuthus_creticus","Eurasia",0.7,0.8,"Elephantidae",470
+"Mammuthus_gromovi","Eurasia",2.433,2.917,"Elephantidae",473
+"Mammuthus_gromovi","Eurasia",2.5,3.5,"Elephantidae",474
+"Mammuthus_lamarmorai","Eurasia",0.14,0.29,"Elephantidae",475
+"Mammuthus_lamarmorai","Eurasia",0.029,0.191,"Elephantidae",476
+"Mammuthus_lamarmorai","Eurasia",0.13,0.191,"Elephantidae",477
+"Mammuthus_lamarmorai","Eurasia",0.1,0.126,"Elephantidae",478
+"Mammuthus_meridionalis","Eurasia",1.95,2.6,"Elephantidae",479
+"Mammuthus_meridionalis","Eurasia",1.95,2.6,"Elephantidae",480
+"Mammuthus_meridionalis","Eurasia",2.192,2.433,"Elephantidae",481
+"Mammuthus_meridionalis","Eurasia",1.95,2.433,"Elephantidae",482
+"Mammuthus_meridionalis","Eurasia",1.95,2.275,"Elephantidae",483
+"Mammuthus_meridionalis","Eurasia",2.6,3.5,"Elephantidae",484
+"Mammuthus_meridionalis","Eurasia",1.95,2.6,"Elephantidae",485
+"Mammuthus_meridionalis","Eurasia",1.95,2.6,"Elephantidae",486
+"Mammuthus_meridionalis","Eurasia",1.95,2.6,"Elephantidae",487
+"Mammuthus_meridionalis","Eurasia",1.806,2.588,"Elephantidae",488
+"Mammuthus_meridionalis","Eurasia",2.3,2.4,"Elephantidae",489
+"Mammuthus_meridionalis","Eurasia",1.6,2,"Elephantidae",490
+"Mammuthus_meridionalis","Eurasia",1.4,1.583,"Elephantidae",491
+"Mammuthus_meridionalis","Eurasia",0.9,1.22,"Elephantidae",492
+"Mammuthus_meridionalis","Eurasia",0.9,1.22,"Elephantidae",493
+"Mammuthus_meridionalis","Eurasia",0.427,0.621,"Elephantidae",494
+"Mammuthus_meridionalis","Eurasia",1.95,2.675,"Elephantidae",501
+"Mammuthus_meridionalis","Eurasia",1.98,2.6,"Elephantidae",502
+"Mammuthus_meridionalis","Eurasia",2.1,2.6,"Elephantidae",503
+"Mammuthus_meridionalis","Eurasia",2.32,2.6,"Elephantidae",504
+"Mammuthus_meridionalis","Eurasia",1.95,2.6,"Elephantidae",505
+"Mammuthus_meridionalis","Eurasia",1.95,2.6,"Elephantidae",506
+"Mammuthus_meridionalis","Eurasia",1.98,2.6,"Elephantidae",507
+"Mammuthus_meridionalis","Eurasia",1.98,2.6,"Elephantidae",508
+"Mammuthus_meridionalis","Eurasia",2.09,2.21,"Elephantidae",509
+"Mammuthus_meridionalis","Eurasia",1.98,2.14,"Elephantidae",510
+"Mammuthus_meridionalis","Eurasia",1.98,2.14,"Elephantidae",511
+"Mammuthus_meridionalis","Eurasia",1.6,2,"Elephantidae",512
+"Mammuthus_meridionalis","Eurasia",1.7,2,"Elephantidae",513
+"Mammuthus_meridionalis","Eurasia",0.3,1.9,"Elephantidae",514
+"Mammuthus_meridionalis","Eurasia",0.781,1.9,"Elephantidae",515
+"Mammuthus_meridionalis","Eurasia",0.9,1.9,"Elephantidae",516
+"Mammuthus_meridionalis","Eurasia",1.68,1.86,"Elephantidae",517
+"Mammuthus_meridionalis","Eurasia",1.68,1.86,"Elephantidae",518
+"Mammuthus_meridionalis","Eurasia",1.6,1.8,"Elephantidae",519
+"Mammuthus_meridionalis","Eurasia",1.6,1.8,"Elephantidae",520
+"Mammuthus_meridionalis","Eurasia",1.75,1.8,"Elephantidae",521
+"Mammuthus_meridionalis","Eurasia",1.3,1.7,"Elephantidae",522
+"Mammuthus_meridionalis","Eurasia",1.1,1.3,"Elephantidae",523
+"Mammuthus_meridionalis","Eurasia",0.988,1.07,"Elephantidae",524
+"Mammuthus_meridionalis","Eurasia",1.806,2.588,"Elephantidae",525
+"Mammuthus_meridionalis","Eurasia",1.9,2.5,"Elephantidae",526
+"Mammuthus_meridionalis","Eurasia",1.54,2.32,"Elephantidae",527
+"Mammuthus_meridionalis","Eurasia",1.37,2.11,"Elephantidae",528
+"Mammuthus_meridionalis","Eurasia",1.19,1.567,"Elephantidae",529
+"Mammuthus_meridionalis","Eurasia",1.1,1.3,"Elephantidae",530
+"Mammuthus_meridionalis","Eurasia",1.95,2.675,"Elephantidae",531
+"Mammuthus_meridionalis","Eurasia",1.95,2.675,"Elephantidae",532
+"Mammuthus_meridionalis","Eurasia",1.95,2.675,"Elephantidae",533
+"Mammuthus_meridionalis","Eurasia",1.95,2.6,"Elephantidae",534
+"Mammuthus_meridionalis","Eurasia",1.95,2.6,"Elephantidae",535
+"Mammuthus_meridionalis","Eurasia",1.95,2.6,"Elephantidae",536
+"Mammuthus_meridionalis","Eurasia",1.95,2.6,"Elephantidae",537
+"Mammuthus_meridionalis","Eurasia",2,2,"Elephantidae",538
+"Mammuthus_meridionalis","Eurasia",0.5,1,"Elephantidae",539
+"Mammuthus_primigenius","Eurasia",0.117,0.781,"Elephantidae",540
+"Mammuthus_primigenius","Eurasia",0.126,0.781,"Elephantidae",541
+"Mammuthus_primigenius","Eurasia",0.126,0.781,"Elephantidae",542
+"Mammuthus_primigenius","Eurasia",0.012,0.126,"Elephantidae",543
+"Mammuthus_primigenius","Eurasia",0.012,0.126,"Elephantidae",544
+"Mammuthus_primigenius","Eurasia",0.012,0.126,"Elephantidae",545
+"Mammuthus_primigenius","Eurasia",0.012,0.126,"Elephantidae",546
+"Mammuthus_primigenius","Eurasia",0.004,0.009,"Elephantidae",547
+"Mammuthus_primigenius","Eurasia",0.012,0.126,"Elephantidae",568
+"Mammuthus_primigenius","Eurasia",0.01,0.126,"Elephantidae",569
+"Mammuthus_primigenius","Eurasia",0.012,0.126,"Elephantidae",570
+"Mammuthus_primigenius","Eurasia",0.012,0.126,"Elephantidae",571
+"Mammuthus_primigenius","Eurasia",0.012,0.126,"Elephantidae",572
+"Mammuthus_primigenius","Eurasia",0.012,0.126,"Elephantidae",573
+"Mammuthus_primigenius","Eurasia",0.012,0.126,"Elephantidae",574
+"Mammuthus_protomammonteus","Eurasia",0.5,1,"Elephantidae",575
+"Mammuthus_rumanus","Eurasia",2.6,3.4,"Elephantidae",576
+"Mammuthus_rumanus","Eurasia",2.6,3.4,"Elephantidae",577
+"Mammuthus_trogontherii","Eurasia",0.126,0.781,"Elephantidae",584
+"Mammuthus_trogontherii","Eurasia",0.126,0.781,"Elephantidae",585
+"Mammuthus_trogontherii","Eurasia",0.761,0.79,"Elephantidae",586
+"Mammuthus_trogontherii","Eurasia",0.126,0.781,"Elephantidae",587
+"Mammuthus_trogontherii","Eurasia",0.126,0.781,"Elephantidae",588
+"Mammuthus_trogontherii","Eurasia",0.126,0.781,"Elephantidae",589
+"Mammuthus_trogontherii","Eurasia",0.126,0.781,"Elephantidae",590
+"Mammuthus_trogontherii","Eurasia",0.126,0.781,"Elephantidae",591
+"Mammuthus_trogontherii","Eurasia",0.126,0.781,"Elephantidae",592
+"Mammuthus_trogontherii","Eurasia",0.126,0.781,"Elephantidae",593
+"Mammuthus_trogontherii","Eurasia",0.621,0.761,"Elephantidae",594
+"Mammuthus_trogontherii","Eurasia",0.435,0.781,"Elephantidae",595
+"Mammuthus_trogontherii","Eurasia",0.424,0.774,"Elephantidae",596
+"Mammuthus_trogontherii","Eurasia",0.424,0.774,"Elephantidae",597
+"Mammuthus_trogontherii","Eurasia",0.424,0.774,"Elephantidae",598
+"Mammuthus_trogontherii","Eurasia",0.781,1.03,"Elephantidae",599
+"Mammuthus_trogontherii","Eurasia",0.6,0.781,"Elephantidae",600
+"Mammuthus_trogontherii","Eurasia",0.126,0.781,"Elephantidae",601
+"Mammuthus_trogontherii","Eurasia",0.117,0.781,"Elephantidae",602
+"Mammuthus_trogontherii","Eurasia",0.126,0.781,"Elephantidae",603
+"Mammuthus_trogontherii","Eurasia",0.126,0.781,"Elephantidae",604
+"Mammuthus_trogontherii","Eurasia",0.126,0.781,"Elephantidae",605
+"Mammuthus_trogontherii","Eurasia",0.126,0.781,"Elephantidae",606
+"Mammuthus_trogontherii","Eurasia",0.126,0.781,"Elephantidae",607
+"Mammuthus_trogontherii","Eurasia",0.424,0.781,"Elephantidae",608
+"Mammuthus_trogontherii","Eurasia",0.676,0.781,"Elephantidae",609
+"Mammuthus_trogontherii","Eurasia",0.676,0.781,"Elephantidae",610
+"Mammuthus_trogontherii","Eurasia",0.46,0.46,"Elephantidae",611
+"Palaeoloxodon_antiquus","Eurasia",0.424,0.774,"Elephantidae",597
+"Palaeoloxodon_antiquus","Eurasia",0.1,0.126,"Elephantidae",612
+"Palaeoloxodon_antiquus","Eurasia",0.1,0.126,"Elephantidae",613
+"Palaeoloxodon_antiquus","Eurasia",0.126,0.781,"Elephantidae",614
+"Palaeoloxodon_antiquus","Eurasia",0.126,0.781,"Elephantidae",615
+"Palaeoloxodon_antiquus","Eurasia",0.126,0.781,"Elephantidae",616
+"Palaeoloxodon_antiquus","Eurasia",0.126,0.781,"Elephantidae",617
+"Palaeoloxodon_antiquus","Eurasia",0.126,0.781,"Elephantidae",618
+"Palaeoloxodon_antiquus","Eurasia",0.126,0.781,"Elephantidae",619
+"Palaeoloxodon_antiquus","Eurasia",0.126,0.781,"Elephantidae",620
+"Palaeoloxodon_antiquus","Eurasia",0.6,0.781,"Elephantidae",621
+"Palaeoloxodon_antiquus","Eurasia",0.126,0.781,"Elephantidae",622
+"Palaeoloxodon_antiquus","Eurasia",0.126,0.781,"Elephantidae",623
+"Palaeoloxodon_antiquus","Eurasia",0.126,0.781,"Elephantidae",624
+"Palaeoloxodon_antiquus","Eurasia",0.126,0.781,"Elephantidae",625
+"Palaeoloxodon_antiquus","Eurasia",0.126,0.781,"Elephantidae",626
+"Palaeoloxodon_antiquus","Eurasia",0.126,0.781,"Elephantidae",627
+"Palaeoloxodon_antiquus","Eurasia",0.126,0.781,"Elephantidae",628
+"Palaeoloxodon_antiquus","Eurasia",0.126,0.781,"Elephantidae",629
+"Palaeoloxodon_antiquus","Eurasia",0.126,0.781,"Elephantidae",630
+"Palaeoloxodon_antiquus","Eurasia",0.126,0.781,"Elephantidae",631
+"Palaeoloxodon_antiquus","Eurasia",0.126,0.781,"Elephantidae",632
+"Palaeoloxodon_antiquus","Eurasia",0.039,0.1,"Elephantidae",633
+"Palaeoloxodon_antiquus","Eurasia",0.126,0.781,"Elephantidae",634
+"Palaeoloxodon_antiquus","Eurasia",0.424,0.781,"Elephantidae",608
+"Palaeoloxodon_antiquus","Eurasia",0.397,0.662,"Elephantidae",635
+"Palaeoloxodon_creutzburgi","Eurasia",0.012,0.126,"Elephantidae",636
+"Palaeoloxodon_cypriotes","Eurasia",0.126,0.781,"Elephantidae",637
+"Palaeoloxodon_falconeri","Eurasia",0.781,1.8,"Elephantidae",638
+"Palaeoloxodon_falconeri","Eurasia",0.781,1.8,"Elephantidae",639
+"Palaeoloxodon_falconeri","Eurasia",0.781,1.8,"Elephantidae",640
+"Palaeoloxodon_falconeri","Eurasia",0.781,1.8,"Elephantidae",640
+"Palaeoloxodon_lomolinoi","Eurasia",0.012,0.126,"Elephantidae",643
+"Palaeoloxodon_mnaidriensis","Eurasia",0.13,0.43,"Elephantidae",644
+"Palaeoloxodon_mnaidriensis","Eurasia",0.13,0.43,"Elephantidae",645
+"Palaeoloxodon_namadicus","Eurasia",0.6,1.3,"Elephantidae",646
+"Palaeoloxodon_namadicus","Eurasia",0.012,0.7,"Elephantidae",647
+"Palaeoloxodon_namadicus","Eurasia",1.2,1.8,"Elephantidae",648
+"Palaeoloxodon_namadicus","Eurasia",0.6,1.3,"Elephantidae",649
+"Palaeoloxodon_namadicus","Eurasia",0.6,1.3,"Elephantidae",650
+"Palaeoloxodon_namadicus","Eurasia",0.35,0.6,"Elephantidae",651
+"Palaeoloxodon_naumanni","Eurasia",0.012,0.7,"Elephantidae",652
+"Palaeoloxodon_naumanni","Eurasia",0.0117,0.126,"Elephantidae",653
+"Palaeoloxodon_naumanni","Eurasia",0.0117,0.126,"Elephantidae",654
+"Palaeoloxodon_naumanni","Eurasia",0.0117,0.126,"Elephantidae",655
+"Palaeoloxodon_tiliensis","Eurasia",0.012,0.126,"Elephantidae",670
+"Platelephas_platycephalus","Eurasia",2.6,3.56,"Elephantidae",671
+"Platelephas_platycephalus","Eurasia",0.63,2,"Elephantidae",362
+"Stegoloxodon_celebensis","Eurasia",2.588,3.6,"Elephantidae",683
+"Stegoloxodon_celebensis","Eurasia",2.588,3.6,"Elephantidae",684
+"Stegoloxodon_celebensis","Eurasia",2.588,3.6,"Elephantidae",685
+"Stegoloxodon_celebensis","Eurasia",2.588,3.6,"Elephantidae",686
+"Stegoloxodon_celebensis","Eurasia",2.588,3.6,"Elephantidae",686
+"Stegoloxodon_celebensis","Eurasia",2.588,3.6,"Elephantidae",687
+"Stegoloxodon_celebensis","Eurasia",2.588,3.6,"Elephantidae",688
+"Stegoloxodon_celebensis","Eurasia",2.588,3.6,"Elephantidae",689
+"Stegoloxodon_celebensis","Eurasia",2.588,3.6,"Elephantidae",690
+"Stegoloxodon_celebensis","Eurasia",2.588,3.6,"Elephantidae",691
+"Stegoloxodon_indonesicus","Eurasia",2,3,"Elephantidae",692
+"Stegoloxodon_indonesicus","Eurasia",1.5,2.588,"Elephantidae",693
+"Stegotetrabelodon_syrticus","Eurasia",5.3,9,"Elephantidae",702
+"Stegotetrabelodon_syrticus","Eurasia",7.1,8.2,"Elephantidae",703
+"Stegotetrabelodon_syrticus","Eurasia",5.3,8.2,"Elephantidae",704
+"Stegotetrabelodon_syrticus","Eurasia",5.3,8.2,"Elephantidae",705
+"Stegotetrabelodon_syrticus","Eurasia",5.3,8.2,"Elephantidae",706
+"Stegotetrabelodon_syrticus","Eurasia",5.3,8.2,"Elephantidae",707
+"Stegotetrabelodon_syrticus","Eurasia",5.3,8.2,"Elephantidae",708
+"Mammuthus_columbi","NorthAmerica",0.126,0.781,"Elephantidae",418
+"Mammuthus_columbi","NorthAmerica",0.126,0.781,"Elephantidae",419
+"Mammuthus_columbi","NorthAmerica",0.126,0.781,"Elephantidae",419
+"Mammuthus_columbi","NorthAmerica",0.012,0.3,"Elephantidae",420
+"Mammuthus_columbi","NorthAmerica",0.012,0.3,"Elephantidae",421
+"Mammuthus_columbi","NorthAmerica",0.012,0.3,"Elephantidae",422
+"Mammuthus_columbi","NorthAmerica",0.012,0.3,"Elephantidae",423
+"Mammuthus_columbi","NorthAmerica",0.012,0.126,"Elephantidae",424
+"Mammuthus_columbi","NorthAmerica",0.012,0.126,"Elephantidae",425
+"Mammuthus_columbi","NorthAmerica",0.012,0.126,"Elephantidae",426
+"Mammuthus_columbi","NorthAmerica",0.012,0.126,"Elephantidae",427
+"Mammuthus_columbi","NorthAmerica",0.012,0.126,"Elephantidae",428
+"Mammuthus_columbi","NorthAmerica",0.012,0.126,"Elephantidae",429
+"Mammuthus_columbi","NorthAmerica",0.012,0.126,"Elephantidae",430
+"Mammuthus_columbi","NorthAmerica",0.012,0.126,"Elephantidae",431
+"Mammuthus_columbi","NorthAmerica",0.012,0.126,"Elephantidae",432
+"Mammuthus_columbi","NorthAmerica",0.012,0.126,"Elephantidae",433
+"Mammuthus_columbi","NorthAmerica",0.012,0.126,"Elephantidae",434
+"Mammuthus_columbi","NorthAmerica",0.012,0.126,"Elephantidae",435
+"Mammuthus_columbi","NorthAmerica",0.012,0.126,"Elephantidae",436
+"Mammuthus_columbi","NorthAmerica",0.012,0.126,"Elephantidae",437
+"Mammuthus_columbi","NorthAmerica",0.012,0.126,"Elephantidae",438
+"Mammuthus_columbi","NorthAmerica",0.012,0.126,"Elephantidae",439
+"Mammuthus_columbi","NorthAmerica",0.012,0.126,"Elephantidae",440
+"Mammuthus_columbi","NorthAmerica",0.012,0.126,"Elephantidae",441
+"Mammuthus_columbi","NorthAmerica",0.012,0.126,"Elephantidae",442
+"Mammuthus_columbi","NorthAmerica",0.012,0.126,"Elephantidae",443
+"Mammuthus_columbi","NorthAmerica",0.012,0.126,"Elephantidae",444
+"Mammuthus_columbi","NorthAmerica",0.012,0.126,"Elephantidae",445
+"Mammuthus_columbi","NorthAmerica",0.012,0.126,"Elephantidae",446
+"Mammuthus_columbi","NorthAmerica",0.012,0.126,"Elephantidae",447
+"Mammuthus_columbi","NorthAmerica",0.012,0.126,"Elephantidae",448
+"Mammuthus_columbi","NorthAmerica",0.012,0.126,"Elephantidae",449
+"Mammuthus_columbi","NorthAmerica",0.0117,0.126,"Elephantidae",450
+"Mammuthus_columbi","NorthAmerica",0.012,0.126,"Elephantidae",451
+"Mammuthus_columbi","NorthAmerica",0.012,0.126,"Elephantidae",452
+"Mammuthus_columbi","NorthAmerica",0.012,0.126,"Elephantidae",453
+"Mammuthus_columbi","NorthAmerica",0.012,0.126,"Elephantidae",454
+"Mammuthus_columbi","NorthAmerica",0.012,0.126,"Elephantidae",455
+"Mammuthus_columbi","NorthAmerica",0.012,0.126,"Elephantidae",456
+"Mammuthus_columbi","NorthAmerica",0.012,0.126,"Elephantidae",457
+"Mammuthus_columbi","NorthAmerica",0.012,0.126,"Elephantidae",458
+"Mammuthus_columbi","NorthAmerica",0.012,0.126,"Elephantidae",459
+"Mammuthus_columbi","NorthAmerica",0.012,0.126,"Elephantidae",460
+"Mammuthus_columbi","NorthAmerica",0.012,0.126,"Elephantidae",461
+"Mammuthus_columbi","NorthAmerica",0.012,0.126,"Elephantidae",462
+"Mammuthus_columbi","NorthAmerica",0.012,0.126,"Elephantidae",463
+"Mammuthus_columbi","NorthAmerica",0.012,0.126,"Elephantidae",464
+"Mammuthus_columbi","NorthAmerica",0.012,0.126,"Elephantidae",465
+"Mammuthus_columbi","NorthAmerica",0.012,0.126,"Elephantidae",466
+"Mammuthus_columbi","NorthAmerica",0.012,0.126,"Elephantidae",467
+"Mammuthus_columbi","NorthAmerica",0.012,0.126,"Elephantidae",468
+"Mammuthus_columbi","NorthAmerica",0.012,0.126,"Elephantidae",469
+"Mammuthus_exilis","NorthAmerica",0.012,0.3,"Elephantidae",471
+"Mammuthus_exilis","NorthAmerica",0.012,0.126,"Elephantidae",472
+"Mammuthus_meridionalis","NorthAmerica",0.85,1.9,"Elephantidae",499
+"Mammuthus_meridionalis","NorthAmerica",0.85,1.9,"Elephantidae",500
+"Mammuthus_primigenius","NorthAmerica",0.126,0.781,"Elephantidae",548
+"Mammuthus_primigenius","NorthAmerica",0.012,0.126,"Elephantidae",549
+"Mammuthus_primigenius","NorthAmerica",0.012,0.126,"Elephantidae",550
+"Mammuthus_primigenius","NorthAmerica",0.012,0.126,"Elephantidae",551
+"Mammuthus_primigenius","NorthAmerica",0.012,0.126,"Elephantidae",552
+"Mammuthus_primigenius","NorthAmerica",0.012,0.126,"Elephantidae",553
+"Mammuthus_primigenius","NorthAmerica",0.012,0.126,"Elephantidae",554
+"Mammuthus_primigenius","NorthAmerica",0.012,0.126,"Elephantidae",555
+"Mammuthus_primigenius","NorthAmerica",0.012,0.126,"Elephantidae",556
+"Mammuthus_primigenius","NorthAmerica",0.012,0.126,"Elephantidae",557
+"Mammuthus_primigenius","NorthAmerica",0.012,0.126,"Elephantidae",558
+"Mammuthus_primigenius","NorthAmerica",0.012,0.126,"Elephantidae",559
+"Mammuthus_primigenius","NorthAmerica",0.012,0.126,"Elephantidae",560
+"Mammuthus_primigenius","NorthAmerica",0.012,0.126,"Elephantidae",561
+"Mammuthus_primigenius","NorthAmerica",0.012,0.126,"Elephantidae",562
+"Mammuthus_primigenius","NorthAmerica",0.012,0.126,"Elephantidae",460
+"Mammuthus_primigenius","NorthAmerica",0.012,0.126,"Elephantidae",461
+"Mammuthus_primigenius","NorthAmerica",0.012,0.126,"Elephantidae",563
+"Mammuthus_primigenius","NorthAmerica",0.012,0.126,"Elephantidae",564
+"Mammuthus_primigenius","NorthAmerica",0.012,0.126,"Elephantidae",565
+"Mammuthus_primigenius","NorthAmerica",0.012,0.126,"Elephantidae",566
+"Mammuthus_primigenius","NorthAmerica",0.01,0.012,"Elephantidae",567

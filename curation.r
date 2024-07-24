@@ -4,13 +4,14 @@ library(here)
 # Carregando os dados
 raw_data <- read.csv(here("Original.csv"))
 
-?here
-
 # Invertendo a ordem das colunas 4 e 5
 raw_data <- raw_data[, c(1,2, 5, 4, 6, 3)]
 
 # Organizando os dados por espécie em ordem alfabética e mantendo a ordem da família
 ordered_data <- raw_data[order(raw_data$family, raw_data$species, raw_data$region), ]
+
+# Substituindo os espaços por underscores na primeira coluna
+ordered_data$species <- gsub(" ", "_", ordered_data$species)
 
 # Renomeando as regiões
 ordered_data$region <- gsub("(Eastern|Northern|Southern|Middle|Western) Africa", "Africa", ordered_data$region, ignore.case = TRUE)
@@ -20,6 +21,10 @@ ordered_data$region <- gsub("(Eastern|Northern|Southern|Western) Europe", "Euras
 ordered_data$region <- gsub("(Eastern|Northern|Southern|Western|Central|South-Eastern) Asia", "Eurasia", ordered_data$region, ignore.case = TRUE)
 
 ordered_data$region <- gsub("Northern America", "North America", ordered_data$region, ignore.case = TRUE)
+
+ordered_data <- subset(ordered_data, region != "South America")
+
+ordered_data <- subset(ordered_data, region != "Central America")
 
 # Substituindo vírgulas por pontos em duas colunas específicas
 ordered_data$maximum.age <- gsub(",", ".", ordered_data$maximum.age)
@@ -51,6 +56,11 @@ write.csv(selected_data, file = "selected_families_data.csv", row.names = FALSE)
 
 # Carregando os dados (substitua 'seu_arquivo.csv' pelo nome do seu arquivo CSV)
 selected_families_data <- read.csv("selected_families_data.csv")
+
+# Substituindo os espaços por underscores na primeira coluna
+selected_families_data$species <- gsub(" ", "_", selected_families_data$species)
+
+selected_families_data$region <- gsub(" ", "", selected_families_data$region)
 
 # Dividindo o dataframe com base na coluna de famílias e ordenando por região
 frames_list <- split(selected_families_data, selected_families_data$family)
