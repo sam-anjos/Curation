@@ -34,21 +34,21 @@ ordered_data$minimum.age <- gsub(",", ".", ordered_data$minimum.age)
 ordered_data$Site <- as.integer(factor(ordered_data$Site, levels = unique(ordered_data$Site)))
 
 # Criando um novo dataframe excluindo as regiões "América do Sul" e "América Central"
-final_data <- subset(ordered_data, region != "Southern America" & region != "Central America")
+final_cleaned_data <- subset(ordered_data, region != "Southern America" & region != "Central America")
 
-# Salvar os dados ordenados e limpos em um novo arquivo (substitua 'novo_arquivo.csv' pelo nome desejado)
+# Salvar os dados ordenados e limpos em um novo arquivo
 write.csv(final_data, file = "cleaned_data.csv", row.names = FALSE)
 
 # Carregando os data_pre_selection (substitua 'seu_arquivo.csv' pelo nome do seu arquivo CSV)
 data_pre_selection <- read.csv("cleaned_data.csv")
 
-# Calculando o nÃºmero de linhas Ãºnicas por famÃ­lia na coluna de espÃ©cies
+# Calculando o número de linhas únicas por família na coluna de espécies
 sp_per_family <- tapply(data_pre_selection$species, data_pre_selection$family, function(x) length(unique(x)))
 
-# Identificando as famÃ­lias com menos de 9 linhas Ãºnicas
+# Identificando as famílias com menos de 9 linhas únicas
 families_to_keep <- names(sp_per_family[sp_per_family >= 9])
 
-# Criando uma nova tabela apenas com as famÃ­lias que possuem 9 ou mais linhas Ãºnicas
+# Criando uma nova tabela apenas com as famílias que possuem 9 ou mais linhas únicas
 selected_data <- data_pre_selection[data_pre_selection$family %in% families_to_keep, ]
 
 # Escrevendo a nova tabela em um novo arquivo CSV (substitua 'novo_arquivo.csv' pelo nome desejado)
