@@ -5,5 +5,5 @@ This repository is intended for cleaning and curating raw data. The scripts were
 
 I hope to receive more data and will use these scripts for its curation.
 
-###Steps
+### Steps
 There are 3 scripts. The first script transforms the raw data into a more usable format and separates the original table into specific tables for each family. The second script divides each family table into smaller tables, separating the families by continents. The third script is for converting these tables into the PyRate analysis format (https://github.com/dsilvestro/PyRate).
