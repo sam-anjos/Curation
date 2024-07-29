@@ -1,4 +1,4 @@
-#Curation
+# Curation
 
 ### Justification
 This repository is intended for cleaning and curating raw data. The scripts were written using the data I am using for my master's research. Currently, the data used is available at DOI: https://doi.org/10.1038/s41559-021-01498-w.
