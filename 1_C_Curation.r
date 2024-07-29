@@ -1,4 +1,5 @@
-install.packages("here")
+if (!requireNamespace("here", quietly = TRUE)) install.packages("here")
+
 library(here)
 
 # Carregando os dados
@@ -37,7 +38,7 @@ ordered_data$Site <- as.integer(factor(ordered_data$Site, levels = unique(ordere
 final_cleaned_data <- subset(ordered_data, region != "Southern America" & region != "Central America")
 
 # Salvar os dados ordenados e limpos em um novo arquivo
-write.csv(final_data, file = "cleaned_data.csv", row.names = FALSE)
+write.csv(final_cleaned_data, file = "cleaned_data.csv", row.names = FALSE)
 
 # Carregando os data_pre_selection (substitua 'seu_arquivo.csv' pelo nome do seu arquivo CSV)
 data_pre_selection <- read.csv("cleaned_data.csv")
