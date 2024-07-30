@@ -2,19 +2,24 @@ if (!requireNamespace("here", quietly = TRUE)) install.packages("here")
 
 library(here)
 
-# Carregando os dados
+# Creating the 'curated_data' folder if it does not exist
+if (!dir.exists("curated_data")) {
+  dir.create("curated_data")
+}
+
+# Loading the data
 raw_data <- read.csv(here("Original.csv"))
 
-# Invertendo a ordem das colunas 4 e 5
+# Reversing the order of columns 4 and 5
 raw_data <- raw_data[, c(1,2, 5, 4, 6, 3)]
 
-# Organizando os dados por espécie em ordem alfabética e mantendo a ordem da família
+# Organizing the data by species in alphabetical order while maintaining family order
 ordered_data <- raw_data[order(raw_data$family, raw_data$species, raw_data$region), ]
 
-# Substituindo os espaços por underscores na primeira coluna
+# Replacing spaces with underscores in the first column
 ordered_data$species <- gsub(" ", "_", ordered_data$species)
 
-# Renomeando as regiões
+# Renaming regions
 ordered_data$region <- gsub("(Eastern|Northern|Southern|Middle|Western) Africa", "Africa", ordered_data$region, ignore.case = TRUE)
 
 ordered_data$region <- gsub("(Eastern|Northern|Southern|Western) Europe", "Eurasia", ordered_data$region, ignore.case = TRUE)
@@ -23,64 +28,48 @@ ordered_data$region <- gsub("(Eastern|Northern|Southern|Western|Central|South-Ea
 
 ordered_data$region <- gsub("Northern America", "North America", ordered_data$region, ignore.case = TRUE)
 
+# Removing the South and Central America regions
+
 ordered_data <- subset(ordered_data, region != "South America")
 
 ordered_data <- subset(ordered_data, region != "Central America")
 
-# Substituindo vírgulas por pontos em duas colunas específicas
+# Replacing commas with periods in two specific columns
 ordered_data$maximum.age <- gsub(",", ".", ordered_data$maximum.age)
+
 ordered_data$minimum.age <- gsub(",", ".", ordered_data$minimum.age)
 
-# Transformando a coluna "site" em um fator
+# Converting the "site" column to a factor
 ordered_data$Site <- as.integer(factor(ordered_data$Site, levels = unique(ordered_data$Site)))
 
-# Criando um novo dataframe excluindo as regiões "América do Sul" e "América Central"
-final_cleaned_data <- subset(ordered_data, region != "Southern America" & region != "Central America")
+# Saving the ordered and cleaned data to a new file
+write.csv(ordered_data, file = here("curated_data/cleaned_data.csv"), row.names = FALSE)
 
-# Salvar os dados ordenados e limpos em um novo arquivo
-write.csv(final_cleaned_data, file = "cleaned_data.csv", row.names = FALSE)
+# Calculating the number of unique rows per family in the species column
+sp_per_family <- tapply(ordered_data$species, ordered_data$family, function(x) length(unique(x)))
 
-# Carregando os data_pre_selection (substitua 'seu_arquivo.csv' pelo nome do seu arquivo CSV)
-data_pre_selection <- read.csv("cleaned_data.csv")
-
-# Calculando o número de linhas únicas por família na coluna de espécies
-sp_per_family <- tapply(data_pre_selection$species, data_pre_selection$family, function(x) length(unique(x)))
-
-# Identificando as famílias com menos de 9 linhas únicas
+# Identifying families with fewer than 9 unique rows
 families_to_keep <- names(sp_per_family[sp_per_family >= 9])
 
-# Criando uma nova tabela apenas com as famílias que possuem 9 ou mais linhas únicas
-selected_data <- data_pre_selection[data_pre_selection$family %in% families_to_keep, ]
+# Creating a new table with only families that have 9 or more unique rows
+selected_data <- ordered_data[ordered_data$family %in% families_to_keep, ]
 
-# Escrevendo a nova tabela em um novo arquivo CSV (substitua 'novo_arquivo.csv' pelo nome desejado)
-write.csv(selected_data, file = "selected_families_data.csv", row.names = FALSE)
+# Writing the new table to a new CSV file
+write.csv(selected_data, file = here("curated_data/selected_data.csv"), row.names = FALSE)
 
-# Carregando os dados (substitua 'seu_arquivo.csv' pelo nome do seu arquivo CSV)
-selected_families_data <- read.csv("selected_families_data.csv")
+# Replacing spaces with underscores in the first column
+selected_data$species <- gsub(" ", "_", selected_data$species)
 
-# Substituindo os espaços por underscores na primeira coluna
-selected_families_data$species <- gsub(" ", "_", selected_families_data$species)
+selected_data$region <- gsub(" ", "", selected_data$region)
 
-selected_families_data$region <- gsub(" ", "", selected_families_data$region)
+# Splitting the dataframe based on the family column and sorting by region
+frames_list <- split(selected_data, selected_data$family)
 
-# Dividindo o dataframe com base na coluna de famílias e ordenando por região
-frames_list <- split(selected_families_data, selected_families_data$family)
-
-# Ordenando cada subconjunto por região
+# Sorting each subset by region
 frames_list <- lapply(frames_list, function(subset) subset[order(subset$region), ])
 
-# Criando pasta para novos arquivos
-dir.create("selected_families")
-
-# Verifica se a pasta foi criada
-if (file.exists("selected_families")) {
-  cat("Pasta criada com sucesso!")
-} else {
-  cat("Falha ao criar a pasta.")
-}
-
-# Salvando cada subconjunto de dados em arquivos separados
+# Saving each subset of data to separate files
 for (i in names(frames_list)) {
-  nome_arquivo <- paste("selected_families/", i, ".csv", sep = "")
-  write.csv(frames_list[[i]], file = nome_arquivo, row.names = FALSE)
+  file_name <- here(paste("selected_families/", i, ".csv", sep = ""))
+  write.csv(frames_list[[i]], file = file_name, row.names = FALSE)
 }

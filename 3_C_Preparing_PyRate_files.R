@@ -1,59 +1,57 @@
-install.packages("here")
-library(here)
+# Load necessary packages
+if (!requireNamespace("dplyr", quietly = TRUE)) install.packages("dplyr")
+if (!requireNamespace("tibble", quietly = TRUE)) install.packages("tibble")
 
-# Defina o caminho relativo para a pasta contendo os arquivos CSV
-folder_path <- here("species_per_region/selected")
+library(dplyr)
+library(tibble)
 
-# Liste todos os arquivos CSV na pasta
-csv_files <- list.files(path = here("species_per_region/selected"), pattern = "*.csv", full.names = TRUE)
+# List of CSV file names
+files <- c("species_per_region/selected/Deinotheriidae_Eurasia.csv", 
+           "species_per_region/selected/Elephantidae_Africa.csv", 
+           "species_per_region/selected/Elephantidae_Eurasia.csv", 
+           "species_per_region/selected/Gomphotheriidae_Africa.csv", 
+           "species_per_region/selected/Gomphotheriidae_Eurasia.csv", 
+           "species_per_region/selected/Gomphotheriidae_NorthAmerica.csv", 
+           "species_per_region/selected/Mammutidae_Africa.csv", 
+           "species_per_region/selected/Mammutidae_Eurasia.csv", 
+           "species_per_region/selected/Stegodontidae_Eurasia.csv")
 
-# Loop sobre cada arquivo e leia-o em um objeto diferente
-for (arquivo in csv_files) {
-  # Extraia o nome do arquivo sem a extensão para usar como nome do objeto
-  nome_objeto <- tools::file_path_sans_ext(basename(arquivo))
-  # Leia o arquivo CSV
-  dados <- read.csv(arquivo)
-  # Atribua o data.frame a um objeto com o nome do arquivo
-  assign(nome_objeto, dados)
+# Function to process a CSV file
+process_file <- function(file) {
+  # Read the CSV file
+  df <- try(read.csv(file), silent = TRUE)
+  
+  # Check if df is an error
+  if (inherits(df, "try-error")) {
+    message(paste("Error reading file:", file))
+    return()
+  }
+  
+  # Ensure columns 2 and 5 exist before removing them
+  cols_to_remove <- c(2, 5)
+  if (all(cols_to_remove %in% seq_along(colnames(df)))) {
+    df <- df %>%
+      select(-c(2, 5))
+  } else {
+    message(paste("File", file, "does not have columns 2 and 5 to remove"))
+  }
+  
+  # Rename the remaining columns
+  colnames(df) <- c("taxon_names", 
+                    "min.age", 
+                    "max.age", 
+                    "site")
+  
+  # Add a new column named "status" at position 2
+  df <- df %>%
+    add_column(status = "extinct", .before = 2)
+  
+  # Create a unique output file name
+  output_file <- paste0("PyRate_files/", tools::file_path_sans_ext(basename(file)), "_PyRate.csv")
+  
+  # Save the resulting table to a new CSV file
+  write.csv(df, output_file, row.names = FALSE)
 }
 
-rm(dados)
-
-files <- list(Deinotheriidae_Africa, Deinotheriidae_Eurasia, Elephantidae_Africa, Elephantidae_Eurasia, Gomphotheriidae_Africa, Gomphotheriidae_Eurasia, Gomphotheriidae_NorthAmerica, Mammutidae_Eurasia, Stegodontidae_Eurasia)
-
-files <- lapply(files, function(df) df[,c(-2,-5)])
-
-add_status_column <- function(df) {
-  df <- cbind(df[, 1, drop = FALSE], status = "extinct", df[, -1])
-  return(df)
-}
-
-# Aplicando a função para todos os data frames na lista
-files <- lapply(files, add_status_column)
-
-# Definindo os novos nomes das colunas
-new_names <- c("taxon_names", "status", "min.age", "max.age", "site")
-
-# Função para renomear as colunas de um data frame
-renomear_colunas <- function(df, novos_nomes) {
-  colnames(df) <- novos_nomes
-  return(df)
-}
-
-
-# Aplicando a função a todos os data frames na lista
-files <- lapply(files, renomear_colunas, new_names)
-
-# Criando pasta para novos arquivos
-dir.create("PyRate_files")
-
-# Definindo os nomes dos arquivos CSV
-nomes_arquivos <- paste0("PyRate_files/", c("Deinotheriidae_Africa", "Deinotheriidae_Eurasia", "Elephantidae_Africa", "Elephantidae_Eurasia", "Gomphotheriidae_Africa", "Gomphotheriidae_Eurasia", "Gomphotheriidae_NorthAmerica","Mammutidae_Eurasia","Stegodontidae_Eurasia"), "_PyRate", ".csv")
-
-# Função para salvar cada data frame em um arquivo CSV
-salvar_em_csv <- function(df, nome_arquivo) {
-  write.csv(df, file = nome_arquivo, row.names = FALSE)
-}
-
-# Usando lapply para salvar todos os data frames em arquivos CSV
-mapply(salvar_em_csv, files, nomes_arquivos)
+# Apply the function to all files in the list
+invisible(lapply(files, process_file))
