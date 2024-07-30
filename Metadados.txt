@@ -1,0 +1,31 @@
+﻿O arquivo original e aqueles que são derivados do primeiro e do segundo script contém dados fósseis, as colunas indicam as seguintes informações:
+
+species - nome da espécie
+region - região onde o fóssil foi encontrado
+site - sítio arqueológico onde o fóssil foi encontrado
+maximum age - idade máxima possível do fóssil
+minimum age - idade mínima possível do fóssil
+family - Familia do fóssil
+Notes on earliest occurrences* - Comentários e anotações sobre os fósseis. (Presente apenas na tabela original)
+
+
+Cada uma das linhas corresponde a uma ocorrência fóssil.
+
+
+No primeiro script a coluna site é transformada em fatores, para facilitação de análises posteriores.
+
+
+Uma das características de dados fósseis é a incapacidade de dizer exatamente a idade do fóssil, por conta disso existem as colunas de maximum e minimum age.
+
+
+No último script eu transformo as tabelas de curadoria em tabelas apropriadas para fazer análises usando o software Pyrate, as novas colunas são as seguintes:
+
+
+taxon_names - nome da espécie
+status - status vivente da espécie (extinta ou viva)
+min.age - idade mínima possível do fóssil
+max.age - idade máxima possível do fóssil
+site - sítio arqueológico onde o fóssil foi encontrado
+
+
+A justificativa dessas colunas pode ser lida em: https://github.com/dsilvestro/PyRate/blob/master/tutorials/pyrate_tutorial_1.md#generate-pyrate-input-file-option-2
